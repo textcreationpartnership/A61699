@@ -1,0 +1,842 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New-Englands true interest not to lie, or, A treatise declaring from the word of truth the terms on which we stand, and the tenure by which we hold our hitherto-continued precious and pleasant things shewing what the blessing God expecteth from his people, and what they may rationally look for from him / delivered in a sermon preached in Boston in New-England, April 29, 1668, being the day of election there, by Mr. W. Stoughton ...</title>
+            <author>Stoughton, William, 1632-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61699</idno>
+            <idno type="STC">Wing S5765</idno>
+            <idno type="STC">ESTC R9808</idno>
+            <idno type="EEBO-CITATION">13768419</idno>
+            <idno type="OCLC">ocm 13768419</idno>
+            <idno type="VID">101731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 852:14 or 1662:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New-Englands true interest not to lie, or, A treatise declaring from the word of truth the terms on which we stand, and the tenure by which we hold our hitherto-continued precious and pleasant things shewing what the blessing God expecteth from his people, and what they may rationally look for from him / delivered in a sermon preached in Boston in New-England, April 29, 1668, being the day of election there, by Mr. W. Stoughton ...</title>
+                  <author>Stoughton, William, 1632-1701.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. and M.J.,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Second edition, in which p. 39-40 are printed in smaller type to contain the matter given on p. 36-38 of the first edition, in order to save a signature when paper was imported and scarce"--NUC pre-1956 imprints.</note>
+                  <note>Item on reel 1662 misidentified in the reel guide as Wing S5764; copies on reels 852 and 1662 are both duplicates of S5765, the "second" edition.</note>
+                  <note>Errata: p. 40.</note>
+                  <note>Reproduction of originals in the Huntington Library and the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah LXIII, 8 --  Sermons.</term>
+               <term>Election sermons --  Massachusetts --  Boston.</term>
+               <term>Sermons, American.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101731:1"/>
+            <pb facs="tcp:101731:1" rendition="simple:additions"/>
+            <p> NEW-ENGLANDS True Intereſt; NOT TO LIE: OR, A Treatiſe declaring from the Word of Truth the Terms on which we ſtand, and the Tenure by which we hold our hitherto-continued Precious and Pleaſant Things.</p>
+            <p>SHEWING What the bleſſed God expecteth from his People, and what they may rationally look for from him.</p>
+            <p>Delivered in a SERMON Preached in <hi>Boſton</hi> in <hi>New-England, April</hi> 29. 1668. being the DAY of ELECTION THERE.</p>
+            <p>By Mr. <hi>W. Stoughton,</hi> Preacher of the Goſpel in <hi>Dorcheſter.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa.</hi> 51. 7, 8.</bibl>
+               <p>Hearken to me, ye that know righteouſneſs, the people in whoſe heart is my law, fear ye not the reproach of men, neither be afraid of their revilings. For the moth ſhall eat them up like a garment, and the worm ſhall eat them like wooll: but my, righteouſneſs ſhall be for ever, and my ſalvation from generation to generation.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Haggai</hi> 2. 4.</bibl>
+               <p>Yet now be ſtrong, O Zerubbabel, ſaith the Lord, and be ſtrong, O Joshua the High Prieſt, and be ſtrong all ye people of the land, ſaith the Lord, and work: for I am with you, ſaith the Lord of Hoſts.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal.</hi> 81. 13. <hi>&amp;.</hi>
+               </bibl>
+               <p>O that my people had hearkened to me, and Iſrael had walked in my ways—their time ſhould have endured for ever. <hi>&amp;</hi>
+               </p>
+            </q>
+            <p>CAMBRIDGE: Printed by <hi>S. G.</hi> and <hi>M. J.</hi> 1670.</p>
+            <pb facs="tcp:101731:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101731:2"/>
+            <head>An Advertiſement to the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>COncerning this Sermon which is now offering it ſelf to thy hand and heart, I muſt ſay what I am fully per<g ref="char:EOLhyphen"/>ſwaded of, <hi>viz.</hi> That it containeth words of uprightneſs and truth, and ſuch as to many Auditors preſent at the publick Preaching of it, were very acceptable: when they came warm from the mouth and ſpirit of the ſpeaker, I doubt not, but they car<g ref="char:EOLhyphen"/>ried with them ſweetneſs through the ear to the heart of each rightly prepared hearer. To receive with affection, is good, but not all the entertainment we owe to meſſages, ſent by the God of Salvations to his Covenant-people. Words of wiſdome muſt be <hi>as Nails faſtened, Eccl.</hi> 12. 11. the word of Chriſt muſt <hi>abide,</hi> Joh 15. 7. and <hi>dwell richly in us,</hi> Col. 3. 16. The helping forward of ſo good a work, hath occaſioned a Perſon of W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth, eminently aff<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cted to thine, and this poor Countries beſt good, in ſubſerviency to the glory of the bleſſed God of Truth, to adventure the publiſhing, of what the pious Author was well-nigh invincibly unwilling ſhould ever have come forth. In hearing, the attentive minde m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt hold pace with the ſpeaker, following him through all particulars from the begin<g ref="char:EOLhyphen"/>ning to the end of his Meſſage: but, in reading we have this ad<g ref="char:EOLhyphen"/>vantage, that we may ſtay and dwell upon what we have firſt a minde to, and by ſerious thoughts and humble prayer, improve it to our good, without depriving our ſelves of opportunity of doing the like, with any other part of it afterward. Thou haſt now a help to reminde thee of many uſeful (but poſſibly forgotten) paſſages. God, whoſe Providence hath brought this to thy hands, expecteth a ſutable improvement: an awakening, humbling quickening, is the beſt uſe we can make of it. Viſible benefit and fruit, is like to prove the beſt expedient to eaſe the ſpirit of the too-unwilling Author, of that trouble which an exceſs of modeſty may have made him capable of, for b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing by a friendly vi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lence thus thruſt out upon the Stage. Some perſons, not born, but cut out of their Mothers Wombs, have proved conſiderable for Action, if Hiſtories may be credited. That Heavens bleſſing may make this ſeaſonable Sermon ſo, is the hope and ſhall be the humble prayer of him who is unfeignedly</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord Jeſus,</hi> J. S.</signed>
+            </closer>
+            <pb facs="tcp:101731:3"/>
+            <pb facs="tcp:101731:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:101731:4"/>
+            <head>
+               <hi>New Englands True Intereſt;</hi> NOT TO LIE.</head>
+            <epigraph>
+               <bibl>Iſaiah 63. 8.</bibl>
+               <q>For he ſaid, Surely they are my people, children that will not lie: ſo he was their Saviour.</q>
+            </epigraph>
+            <p>IN this Chapter (to give you onely a very ſhort view of the Context) you may take notice of theſe three parts.</p>
+            <p n="1">1. An Interlocution or Dialogue between Chriſt and his Church, contained in the firſt ſix Verſes. The un<g ref="char:EOLhyphen"/>expected appearance of the Lord Jeſus Chriſt, in his glorious works of Vengeance upon his peoples enemies, and of Salva<g ref="char:EOLhyphen"/>tion to his Church, it draws forth the Churches earneſt En<g ref="char:EOLhyphen"/>quiries; and theſe her Enquiries they draw forth Chriſts diſtinct Anſwers, even as it is promiſed <hi>Jer.</hi> 33. 3. <hi>Call upon me and I will anſwer thee, and ſhew thee great and mighty things which thou kneweſt not.</hi> Chriſt loves to be <hi>queſtioned</hi> with concerning his great works of Providence, becauſe he deſires to be <hi>known</hi> unto his people in them; and to acquaint them with the great deſigns he hath in hand, as here he is graciouſly pleaſed to do.</p>
+            <p n="2">2. An Acknowledgement of Praiſe from the Church, in the recounting, and calling to minde of eminent paſſages of former mercy and kindneſs extended to her, from <hi>ver.</hi> 7. to <hi>v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> 15.</p>
+            <p n="3">3. The Churches earneſt Prayer and pleading with God hereupon, from <hi>v.</hi> 15. to the end: <hi>Look down from heaven,</hi> &amp;c.</p>
+            <p>The Verſe read, comes under the ſecond of theſe Heads. Chriſt having declared, not only his <hi>Perſon,</hi> but alſo his preſent <hi>deſign</hi> and work to be the wonderful deſtruction of his and his peoples enemies, and the ſalvation of his Redeemed ones; The Church is preſently ſtriking upon the ſame ſtring of Mercy, and that her faith and hope might be further confirmed, and her heart enlarged, ſhe preſently ecchoes unto Chriſt, by telling over the former ſtories of his loving kindneſs, <hi>ver.</hi> 7. <hi>I will men<g ref="char:EOLhyphen"/>tion</hi>
+               <pb n="5" facs="tcp:101731:4" rendition="simple:additions"/> 
+               <hi>the loving kindneſſes of the Lord,</hi> &amp;c. Now (as one aptly notes upon the place) As good Hiſtorians do not only relate meer naked matters of fact, but the perſons alſo, and conſide<g ref="char:EOLhyphen"/>rations moving ſo or ſo, with the effects and reſultances; ſo the Church, ſurveying here the loving kindneſſes of the Lord from an ancient date, ſuggeſts in the words read, the <hi>Conſiderations</hi> upon which the Lord proceeded to be the Saviour of this people; <hi>For he ſaid,</hi> &amp;c.</p>
+            <p>The words of the Text may be thus divided. We have in them</p>
+            <p n="1">1. The Lords juſt expectations of his people, and that pro<g ref="char:EOLhyphen"/>miſe which he makes to himſelf of great things from them. <hi>He ſaid, Surely they are my people, children that will not lie.</hi>
+            </p>
+            <p n="2">2. The influence of theſe things upon the Lords Saviourly undertakings with and for his people: <hi>So he was their Saviour.</hi>
+            </p>
+            <p>Or a little more largely the words hold forth to us</p>
+            <p n="1">1. The beſt Relation wherein any people can ſtand, and that is to be the Lords people.</p>
+            <p n="2">2. That eminent Qualification which ſuits with ſuch a Rela<g ref="char:EOLhyphen"/>tion; <hi>To be children that will not lie.</hi>
+            </p>
+            <p n="3">3. The Lords ſolemn Aſſertion and Conſideration of ſuch a Relation and Qualification in the people ſpoken of; <hi>For he ſaid, Surely they are my people,</hi> &amp;c. He affirms ſuch a Relation, and he ſolemnly expects and promiſeth to himſelf ſuch an anſwerable Qualification.</p>
+            <p n="4">4. The Lords Engagements and Actings as a Saviour to<g ref="char:EOLhyphen"/>wards this his people hereupon, or as influenced by theſe things. Having ſuch an expectation, and conceiving ſuch hopes of this people, as to promiſe to himſelf ſuch things from them, The Lord reſolves to undertake, and doth actually engage himſelf, in the whole work of their Salvation: <hi>Proving</hi> them and <hi>trying</hi> them under a ſingular diſpenſation, and long continued ſeries of mercy, which began with their Redemption out of <hi>Egypt,</hi> and ſo was carried on through the Wilderneſs unto <hi>Canaan,</hi> as in the Verſes following the Text is more fully declared.</p>
+            <p>God is here ſpoken of after the <hi>manner of men,</hi> as giving to himſelf the grounds and reaſons of his own great undertaking; And therefore the expreſſions of the Text do no whit impeach the fore-knowledge of God, whereby he knew from the begin<g ref="char:EOLhyphen"/>ning what the rebellions and backſlidings of this people would
+<pb n="6" facs="tcp:101731:5"/> be, even as in <hi>v.</hi> 10. we find it; but the Lord ſpeaks <hi>as one of us,</hi> judging of matters, and taking up his hopes, according to the viſible and apparent juſt grounds and reaſons of things, even as a <hi>prudent and wiſe man</hi> would in the like caſe have done: for who is there that would not have promiſed to himſelf great things from a people ſo engaged and circumſtanced, in caſe ſo great mercy and ſalvation were ſhewn to them? Now that which the Lord promiſeth to himſelf and expects from them, is, That they would prove <hi>Children that would not lie.</hi>
+            </p>
+            <p>
+               <hi>To lie,</hi> in the ſenſe of the Text, takes in <hi>deeds</hi> as well as <hi>words,</hi> yea matters of fact more eſpecially. The Spirit of God means hereby <hi>all <g ref="char:V">Ʋ</g>nfoundneſs, Perfidiouſneſs, Prevarication with the Lord,</hi> whereby we go contrary to our <hi>Engagements,</hi> and prove unfaithful to him. The word is tranſlated in other places to <hi>deal falſly,</hi> as <hi>Gen.</hi> 21. 23. and <hi>to fail,</hi> Pſal. 89. 33. It is to be re<g ref="char:EOLhyphen"/>ferred unto the matters of the <hi>Lords Covenant</hi> with his people. God expects and promiſeth to himſelf that in <hi>theſe things</hi> his people will <hi>keep touch</hi> with him, and <hi>not ſhrink.</hi> Thus the Church aſſerts her uprightneſs, by removing the <hi>Lie</hi> far from her ſelf, <hi>Pſal.</hi> 44. 17. All this is come upon us, yet have we not forgotten thee, nor <hi>dealt falſly</hi> in thy Covenant: the word is the ſame with that in the Text; We have not <hi>lied</hi> unto thee in thy Cove<g ref="char:EOLhyphen"/>nant. This is the plain meaning of the words: <hi>They will be perfect, upright, faithful to me and with me in all the concernments of my Covenant with them; I have this good perſwaſion of them, and I will try them with mercy and ſalvation, to ſee how they will anſwer and make good my expectations of them.</hi>
+            </p>
+            <p>From this <hi>8th</hi> Verſe, as relating unto the next foregoing, we may briefly take up this Note:</p>
+            <p>
+               <hi>The fountain and fulneſs of all the Bleſſings of the people of</hi> 
+               <note place="margin">Obſerv.</note> 
+               <hi>God, it is contained in this, to have the Lord Jehovah to be their Saviour.</hi> All the <hi>loving kindneſſes,</hi> all the Lords <hi>beſtowings,</hi> all his <hi>great goodneſs and merci<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> mentioned in <hi>ver.</hi> 7. they are ſumm'd up in, and made to flow from this one thing in <hi>ver.</hi> 8. <hi>He became their Saviour.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 1. From the <hi>Comprehenſiveneſs</hi> of Salvation. It con<g ref="char:EOLhyphen"/>tains in it all the good and bleſſedneſs of ſinners, whether tem<g ref="char:EOLhyphen"/>poral or ſpiritual, and that in a way of glorious Redemption from, c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nqueſt and triumph over, and deſtruction of what<g ref="char:EOLhyphen"/>ſoever
+<pb n="7" facs="tcp:101731:5"/> can be found in oppoſition, whether by way of <hi>demerit,</hi> or as an <hi>adverſe working power.</hi> Of Salvation may every poor believing Soul, or People ſay, and that in their worſt and moſt diſtreſſed eſtate, <hi>All my well-ſprings are in thee.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 2. From the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>finite Sufficiency of the <g ref="char:V">Ʋ</g>ndertaker,</hi> when the Lord Jehovah is the Saviour, or undertakes to become the Saviour. <hi>Iſa.</hi> 43. 11.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Learn we then, that we are to take notice of <hi>divine Salvation,</hi> or of God as a <hi>Saviour,</hi> in all that which the Lord hath graciouſly beſtowed upon us his poor people in this Wil<g ref="char:EOLhyphen"/>derneſs. Our <hi>Churches,</hi> our <hi>Ordinances,</hi> our <hi>Liberties</hi> and <hi>Pri<g ref="char:EOLhyphen"/>vileages,</hi> our <hi>Mercies</hi> this day, and unto this day from the be<g ref="char:EOLhyphen"/>ginning, they are ſtreams iſſuing from this one Fountain-head, and lines meeting in this Centre, <hi>Divine Salvation.</hi> We have enjoyed them, and do yet enjoy them in a way of Salvation. Our Liberties and Priviledges they are <hi>Redeemed Ranſomed Mer<g ref="char:EOLhyphen"/>cies,</hi> malign them who will. The Price, and Power, and Inter<g ref="char:EOLhyphen"/>ceſſion of a <hi>Mediator,</hi> and of many precious <hi>Saints,</hi> have given and continued them unto us. Many a time have the <hi>Archers ſhot at them,</hi> Sins and Enemies, Satan and his Inſtruments have ſtood in oppoſition; but the <hi>Salvation</hi> of God hath prevailed, and doth yet prevail: ſo that we may make our entrance this day with that triumph of holy <hi>Mary,</hi> Luke 1. 46, 47. <hi>Our ſouls do magnifie the Lord, and our ſpirits do rejoice in God our Saviour.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Then let us continue to <hi>draw all our waters out of</hi> 
+               <note place="margin">Iſaiah <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe well<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Salvation,</hi> the Redeeming grace, and power, and pity, and faithfulneſs of the Lord our God, as a Saviour to us and with us. They are men of <hi>uſe</hi> indeed, that have good buckets of Faith and Prayer to let down here. Of ſuch precious ones let the <hi>Governours of Judah ſay in their hearts, that theſe</hi> 
+               <note place="margin">Zech. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2 5.</note> 
+               <hi>ſhall be their ſtrength, in the Lord of Hoſts their God.</hi> You that can draw hence, ſpare no labour nor pains. The Well indeed is deep, but the Spirit of God is with you; and theſe waters drawn out by a lively conſtant acting of Faith, will abundantly recompence all our labour. By theſe ſhall the <hi>inheritance of the Lord be refreſhed when it is weary;</hi> yea, in due time, they ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>low forth to be unto us <hi>a place of broad <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vers and ſtreams, where<g ref="char:EOLhyphen"/>in ſhall go no galley with oa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, nor gallant ſhip ſhall paſs thereby,</hi> even waters of plenty and ſecurity to the Lords people. <hi>Iſa.</hi> 33. 21.</p>
+            <pb n="8" facs="tcp:101731:6"/>
+            <p> But there are two other Obſervations from the words which I mainly intend; unto which let me ſpeak ſeverally in the Do<g ref="char:EOLhyphen"/>ctrinal part of them, and ſo joyn them both together in the Application.</p>
+            <div n="1" type="observation">
+               <head>
+                  <hi>I.</hi> Obſerv. There is a time and ſeaſon wherein the Lord tries and proves a people with mercies, or with ſalvation, under his juſt and righteous Expectations of them, and the promiſes which he hath made unto himſelf concerning them.</head>
+               <p>This is a ſpeaking of God after the manner of men, and in this way we utter matter of truth concerning him; we ſpeak of him <hi>things that are right,</hi> though in a way of <hi>imperfection</hi> as to our <hi>manner.</hi> As God is ſaid ſometimes to <hi>will</hi> a thing, but not according to his <hi>Omnipotency,</hi> for then it ſhould be moſt certainly effected: ſo he is ſaid alſo to <hi>expect</hi> and look for ſome things, and to make a <hi>promiſe</hi> of them to himſelf, but not ac<g ref="char:EOLhyphen"/>cording to his <hi>infinite unerring Preſcience.</hi> Thus the Lord ſaith that he <hi>looked for grapes from his vineyard,</hi> Iſa. 5. 2, 4. and <hi>ver.</hi> 7. <hi>He looked for judgement, but behold oppreſſion; for righteouſneſs, but behold a cry.</hi> So <hi>Zeph.</hi> 3. 7. <hi>I ſaid, Surely thou wilt fear me, thou wilt receive inſtruction:</hi> and in that Parable, <hi>Matth.</hi> 21. 37. <hi>They will reverence my ſon.</hi>
+               </p>
+               <p>In this Doctrine there are three things to be ſpoken to.</p>
+               <p>Firſt, <hi>The grounds and foundations of theſe Expectations of God,</hi> upon which, or according unto which, he raiſeth his <hi>hopes and confidences</hi> concerning any people, ſo as to ſay of them, <hi>Sure<g ref="char:EOLhyphen"/>ly they will be thus, or do thus,</hi> as I would have them to be or do. Now here there are theſe five particulars, briefly as the grounds of the Lords Expectations.</p>
+               <p n="1">1. <hi>The ſpecial Relation of a people unto God;</hi> or that Cove<g ref="char:EOLhyphen"/>nant-relation whereinto the Lord brings a people that they may be His; Surely they are <hi>My people,</hi> and then it follows, <hi>Chil<g ref="char:EOLhyphen"/>dren that will not lie.</hi> The Lord founds his whole Law, in the giving of it to <hi>Iſrael,</hi> upon a Preface of <hi>Intereſt</hi> in them, <hi>Exod.</hi> 20. 2. <hi>I am the Lord thy God.</hi> A Parent expects more from a <hi>Childe</hi> then from any other, becauſe of the Relation. <hi>Jer.</hi> 2. 14. if <hi>Iſrael</hi> had been no more then <hi>a ſervant or a home-born ſlave,</hi> the Lord had not expected ſo great things from him; but now being a <hi>ſon,</hi> yea a <hi>firſt-born, Exod.</hi> 4. 22. this makes the Judge<g ref="char:EOLhyphen"/>ments of God executed upon him for rebellions and back<g ref="char:EOLhyphen"/>ſlidings
+<pb n="9" facs="tcp:101731:6"/> to be, though more <hi>ſtrange and aſtoniſhing,</hi> yet moſt <hi>juſt and righteous.</hi>
+               </p>
+               <p n="2">2. <hi>The Extraction of a people,</hi> or their deſcent from ſuch and ſuch Parents and Progenitors; when they do not onely ſtand in relation to God, but are born and grow up into Covenant with him, as the ſeed and poſterity of the Lords faithful ones. This is implied in that expreſſion of <hi>Children</hi> in the Text; it notes not onely their Relation unto <hi>God</hi> as a Father, but unto <hi>pious and religious Parents,</hi> the Lords faithful Covenanting Servants. Religious Parentage and Deſcent is of great moment with the Lord; hence he calls and names his people ſo often in Scripture from their pious Anceſtors. Thus the whole <hi>Race</hi> is called <hi>Jacob</hi> and <hi>Iſrael,</hi> the <hi>ſeed of Jacob and of Iſrael,</hi> Pſal. 22. 23. Iſa. 45. 19. the <hi>Poſterity of Abraham,</hi> &amp;c. Covenanting holy Parents, they are a <hi>holy Root</hi> unto their Seed, and the Lord may well expect that the <hi>Branches</hi> ſhould be anſwerable unto the Root. Hence <note place="margin">Rom. 11. 16.</note> the Lord ſolemnly calls upon his people to <hi>look to the Rock whence they were hewen, and to the hole of the Pit whence they were digged;</hi> to <hi>look unto Abraham their father, and to Sarah that bare them,</hi> Iſa. 51. 1, 2.</p>
+               <p n="3">3. <hi>The ſolemn actual Reſtipulations of a people unto God,</hi> where<g ref="char:EOLhyphen"/>by they do more explicitly binde themſelves, and come under voluntary deliberate Engagements unto God. When God hath the Vows and Promiſes, the Hands and Seals, the ſolemn Cove<g ref="char:EOLhyphen"/>nant-Deeds of a people, now he may well expect that from ſuch a time they will never <hi>fail</hi> him more, but abide <hi>faithful and con<g ref="char:EOLhyphen"/>ſtant.</hi> Thus it was with Iſrael, <hi>Jer.</hi> 2. 20. <hi>Deut.</hi> 26. 17. <hi>Joſh.</hi> 24. 21, 22.</p>
+               <p n="4">4. <hi>The Advantages and Priviledges of a people.</hi> A people in Covenant, are a people of many Advantages, and the Lord builds his Expectations upon theſe, <hi>Rom.</hi> 3. 1, 2. <hi>&amp;</hi> 9. 4, 5. God looked for grapes from his vineyard, <hi>Iſa.</hi> 5. becauſe he had <hi>fenced it, and gathered out the ſtones, and built a tower in the midſt thereof, and made a wine-preſs therein,</hi> ver. 1, 2. When the rain cometh <hi>oft</hi> upon the ground, the Husbandman expecteth <hi>meet fruit;</hi> and good reaſon, becauſe of this advantage: <hi>fruitful ſeaſons</hi> afforded, make us to expect a <hi>plentiful Harveſt.</hi> If God be not wanting in Ordinances, in ſending Meſſengers one after ano<g ref="char:EOLhyphen"/>ther, in ſetting up Lights in the Candleſticks, in holding for<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h
+<pb n="10" facs="tcp:101731:7"/> the Rule unto a people, and diſcovering the Pattern of his houſe to them, <hi>&amp;c.</hi> he will certainly expect and require ſingular things from them: <hi>for unto whom much is given, from them ſhall much be required,</hi> Luk. 12. 48. Pſal. 147. 19. 20. Mat. 11. 20, 21, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. <hi>The primitive Conſtitution of a people, and their firſt wayes of walking with God according unto ſuch a Conſtitution.</hi> When God made man at firſt, he made him <hi>upright;</hi> when God doth in a more then ordinary way of Providence <hi>form a people,</hi> and <hi>ſettle</hi> them to be a people to himſelf, there is ever that which is eminent in the <hi>primitive frame of things amongſt them,</hi> which God expects that they ſhould keep to, and never make defection from. Thus God ſpeaks of his Vineyard, <hi>Iſa.</hi> 5. 2. it was planted with the <hi>choic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt vine.</hi> So <hi>Jer.</hi> 2. 21. <hi>Yet I planted thee a noble vine, wholly a right ſeed.</hi> Thus alſo God ſpeaks of <hi>Judges as at the firſt, and Counſellors as at the beginning,</hi> Iſa. 1. 26. <hi>David</hi> had his <hi>firſt wayes,</hi> 2 Chron. 17. 3. and ſo Churches have their firſt wayes, when they newly come out of the <hi>forming hand</hi> of God: Now the Lord expreſſeth not onely great <hi>diſappointment,</hi> when theſe firſt wayes are neglected, or quite altered and caſt off, as <hi>Jer.</hi> 2. 21. <hi>How then art thou turned into the degenerate plant of a ſtrange vine unto me?</hi> but great <hi>diſpleaſure</hi> alſo, and <hi>threats</hi> of puniſh<g ref="char:EOLhyphen"/>ment, <hi>Rev.</hi> 2. 4, 5. hence are thoſe cutting Interrogatories, <hi>Gal.</hi> 3. 1, 2, 3, 4.</p>
+               <p>Secondly, A ſecond thing in this Doctrine is, <hi>The nature and tenour</hi> of this diſpenſation of God, to <hi>try and prove</hi> a people with Mercies and Salvation under his juſt Expectations of them, and promiſes concerning them. This we may take in three par<g ref="char:EOLhyphen"/>ticulars.</p>
+               <p n="1">1. <hi>When the Lord enters into Covenant with any people, this Co<g ref="char:EOLhyphen"/>venant of his is a Covenant with Conditions. Foedus eſt promiſſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſub certâ conditione.</hi> Hence there are the <hi>Laws,</hi> as well as the <hi>Promiſes</hi> of the Covenant. As the Lord <hi>obligeth</hi> himſelf <hi>to us,</hi> ſo he <hi>requires</hi> ſomething <hi>from us,</hi> and thus the <hi>Commandments &amp; Statutes</hi> of God are frequently called his <hi>Covenant, Exod.</hi> 34. <note place="margin">Pſal. 25. 10. &amp; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>103. 18.</note> 28. <hi>Deut.</hi> 4. 13. The Lord doth not binde himſelf but upon <hi>terms</hi> to any people. In the purely ſpiritual Covenant, eſtabliſh'd with <hi>Believers onely,</hi> as there are the <hi>Laws of it,</hi> 1 Cor 9. 21. ſo there is a <hi>ſufficiency of grace</hi> provided, and abſolutely engaged, that there may be a <hi>performance</hi> and obedience unto the end, and
+<pb n="11" facs="tcp:101731:7"/> ſo that Covenant can never be made void or diſannulled to any that are ever brought into the bond thereof, <hi>Jer.</hi> 31. 31, 32, 33, 34. <hi>&amp;</hi> 32. 20. But as to that external political Covenant, which takes in <hi>A Body of People,</hi> here there is no ſuch engagement of grace ſufficient, infallibly to be beſtowed for the keeping of the ſame; and therefore it may be and is moſt frequently <hi>broken and made void.</hi> God threatens to <hi>remove the Candleſtick,</hi> Rev. 2. 5. and often hath he done it. <hi>Iſrael</hi> and <hi>Judah</hi> were in the iſſue caſt off, for breaking the Lords Covenant.</p>
+               <p n="2">2. <hi>God never is, nor can he be the firſt that fails in his Cove<g ref="char:EOLhyphen"/>nant with a people.</hi> Their deſertion or dereliction never <hi>begins</hi> with God, but themſelves, <hi>Hoſ.</hi> 13. 9. You know the common and ſtated Rule in this caſe. Acts of pure Dominion and Sove<g ref="char:EOLhyphen"/>raignty they begin with God, &amp; proceed wholly from him, <hi>Rom.</hi> 9. 11, 12, 13. but acts of Juſtice muſt have the demerit of the crea<g ref="char:EOLhyphen"/>ture to be founded upon; ſuch is Gods forſaking of a people, <hi>Jer.</hi> 2. 17. 2 <hi>Chron.</hi> 15. 2.</p>
+               <p n="3">3. <hi>Hence there is a Probation-time belonging to the Covenant-ſtate of a people.</hi> The Lord will make a <hi>triall</hi> whether they will keep and be ſtedfaſt in his Covenant, yea or no. He will not fail on his part, but he will be that unto a people which he hath <hi>en<g ref="char:EOLhyphen"/>gaged</hi> himſelf <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be by <hi>Covenant;</hi> He will nouriſh and cheriſh, He will inſtruct and teach, He will ſave and ſhine upon a people, and keep the path of a gracious Covenant, without turning aſide from the ſame, and in ſuch a courſe and way as this he will make a <hi>full proof</hi> and trial of them. He will <hi>afflict in mercy</hi> whileſt his hopes of them continue; He will bring many <hi>ſpecial hours of temptation</hi> upon them one way or another; He will <hi>nouriſh and keep up his hopes and expectations</hi> as long as may be, untill he hath a full proof of them; and now if they <hi>fail him,</hi> there is a critical ſeaſon of altering and changing the courſe and way of his Providences towards them. From ſuch <hi>an hour, or day, or year,</hi> is ſuch a perſon or people forſaken of God; Pro<g ref="char:EOLhyphen"/>bation-time ceaſeth, and blinding, hardning, ruining time comes in the room of it: <hi>Luk.</hi> 19. 42. <hi>O that thou hadſt known! but now they are hid from thine eyes.</hi> Jer. 6. 27, 28, 29, 30. <hi>Reprobate ſilver ſhall men call them, for the Lord hath rejected them.</hi>
+               </p>
+               <p>Thirdly, The third thing is the Reaſon, which ſhall be onely this one. Becauſe in ſuch a way as this <hi>the Lord doth wonderfully</hi>
+                  <pb n="12" facs="tcp:101731:8"/> 
+                  <hi>glorifie the wiſdome, and ſweetneſs, and righteouſneſs of his Admi<g ref="char:EOLhyphen"/>niſtration and Government.</hi> The Cords of ſuch a diſpenſation are the <hi>cords of a man,</hi> Hoſ. 11. 4. The Lord acts towards us in a ſutable way, as we are intelligent creatures, made after the image of God, capable of judging and diſcerning the Reaſon and Equity of things, and of arguing one thing from another, and chooſing and preferring one thing before another. <hi>As to his El<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct,</hi> the Lord reacheth their Souls with effectual grace in this way: <hi>As to others,</hi> the Wiſdome and Juſtice and Holineſs of God, ſhine forth in their hardning and preparation before<g ref="char:EOLhyphen"/>hand to deſtruction. This is a way wherein there can be no ex<g ref="char:EOLhyphen"/>ception laid againſt the Lord by any, but he alone ſhall over<g ref="char:EOLhyphen"/>come in judgement. When the Lord ſhall triumph moſt in the ut<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er ruine of a gainſaying, backſliding, deſpiſing people, yet he ſhall alſo retain the name and glory of a gracious and merci<g ref="char:EOLhyphen"/>full God, becauſe <hi>He often would have gathered Jeruſalem,</hi> Matth. 23. 37. and <hi>there was nothing more to be done to his vineyard which he did not do,</hi> Iſa. 5. 4.</p>
+            </div>
+            <div n="2" type="observation">
+               <head>
+                  <hi>II.</hi> Obſerv. The Lords great Expectation of his people, and the promiſe which he makes to himſelf concerning them, is principal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y this, That they will be children that will not lie, and ſo he becomes their Saviour.</head>
+               <p>That which the Lord doth chiefly <hi>deſire</hi> and <hi>require</hi> in and from his people, that he doth chiefly <hi>expect and promiſe</hi> to him<g ref="char:EOLhyphen"/>ſelf: That which he <hi>moſt abhors and abominates,</hi> he <hi>leaſt of all</hi> expects from them that are his. Now Truth is that which the Lord <hi>deſires,</hi> Pſal. 51. 6. but the Lie is that which he hates, <hi>Prov.</hi> 6. 17 <hi>&amp;</hi> 12. 22. <hi>Iſa.</hi> 30. 8, 9.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> 
+                  <hi>What is it to be children that will not lie?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The general meaning of this expreſſion hath been already given. Such as are lying children, they are alſo ſtyled <hi>cor<g ref="char:EOLhyphen"/>rupters,</hi> Iſa. 1. 4. <hi>unſtedfaſt ones, flatterers, whoſe hearts are not right,</hi> who <hi>keep not the Lords Covenant,</hi> Pſal. 78. 10, 36, 37. <hi>Trea<g ref="char:EOLhyphen"/>cherous dealers,</hi> Hoſ. 6. 7. <hi>A deceitful bow, Turners back,</hi> &amp;c. <hi>Pſal.</hi> 78. 57. <hi>Hoſ.</hi> 7. 16. By the contrary unto theſe we may know what it is not to Lie. Thus we reade of <hi>faithful children,</hi> Tit. 1. 6. the <hi>Generation of the juſt</hi> or <hi>Righteous,</hi> Pſal. 14. 5. ſuch whoſe <hi>hearts are not turned back,</hi> and whoſe <hi>ſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ps do not decline,</hi> Pſ. 44. 18.</p>
+               <p>More particularly there are theſe ſix things that the Lord re<g ref="char:EOLhyphen"/>quires
+<pb n="13" facs="tcp:101731:8"/> from a Covenanting people, that this Lie may not be charged upon them.</p>
+               <p n="1">1. <hi>Purity of Doctrine and Worſhip.</hi> Mixtures and corruptions in theſe are expreſly called a <hi>Lie</hi> in Scripture-phraſe, <hi>Hoſ.</hi> 11. 12. <hi>Ephraim compaſſeth me about with Lies;</hi> i. e. with falſe Worſhip. Antichriſtianiſm is therefore called a <hi>Lie,</hi> 2 <hi>Theſſ.</hi> 2. 11. becauſe it is a mixture of <hi>falſe Doctrines,</hi> and <hi>falſe Worſhip.</hi> There are the lies of <hi>Errour and Hereſie,</hi> and the lies of <hi>Superſtition and Idolatry;</hi> the Lord in his <hi>Covenant</hi> engageth his people againſt <hi>both.</hi> There is no Errour in Doctrine, or in Worſhip and Ordi<g ref="char:EOLhyphen"/>nances, but it tends ſome way or other to <hi>alter, pervert, and cor<g ref="char:EOLhyphen"/>rupt the Lords Covenant</hi> with his people. By this we are to judge of the danger of Errours and erroneous practices, and anſwer<g ref="char:EOLhyphen"/>ably to watch againſt the <hi>infection</hi> of them.</p>
+               <p n="2">2. <hi>Inward heart ſincerity,</hi> or <hi>Covenant truth within,</hi> Pſa. 51. 6. <hi>Rom.</hi> 2. 29. <hi>Prov.</hi> 3. 1, 3. This the Lord hath <hi>promiſed, Deut.</hi> 30. 6. <hi>Jer.</hi> 31. 33. and <hi>calls for,</hi> Deut. 10. 16. Jer. 4. 4. <hi>and bitterly com<g ref="char:EOLhyphen"/>plains for the want of,</hi> Iſa. 29. 13. Hypocriſie is a Lie, yea a foun<g ref="char:EOLhyphen"/>tain of Lies. A company of <hi>formal cuſtome-born Chriſtians,</hi> what are they but an <hi>heap of Lies</hi> in the ſight and eſteem of God. Now this inward heart ſincerity it conſiſts in <hi>Right principles,</hi> 1 Tim. 1. 5. Right <hi>aims and ends,</hi> Mat. 6. 22. and a Right <hi>dependance or truſt,</hi> Iſa. 26. 3, 4. as a mans truſt, dependance and ſhelter is, ſo is his uprightneſs and ſincerity. <hi>Such as have lying Refuges are lying children.</hi>
+               </p>
+               <p n="3">3. <hi>A converſation flowing from and ſuiting with truth and ſin<g ref="char:EOLhyphen"/>cerity within.</hi> That the power and life of <hi>practical godlineſs</hi> ſhould be entertained into the whole of our courſe and way before the Lord. To fail in this is to <hi>lie loudly,</hi> 1 Joh. 2. 4. &amp; 4. 20.</p>
+               <p n="4">4. <hi>A viſible and open profeſſion and holding forth of, and witneſs-bearing to the truths &amp; wayes of God before the world,</hi> Rom. 10. 10. <hi>David</hi> did not onely <hi>hide the word in his heart;</hi> but, ſaith he, <hi>with my lips have I declared all the judgements of thy mouth,</hi> Pſal. 119. 11, 13. The Lord Jeſus <hi>witneſſed a good confeſſion,</hi> 1 Tim. 6. 13. and herein we muſt alſo follow him, that we may be true and faithful unto God. The <hi>danger</hi> in this matter will not excuſe us from the <hi>duty.</hi> There were <hi>an hundred forty and four thouſand,</hi> Rev. 14. 1. that had <hi>the Fathers name written in their foreheads,</hi> they did not conceal nor hide themſelves. Hence Gods faithful
+<pb n="14" facs="tcp:101731:9"/> ones during the whole reign of Antichriſt are ſtyled the Lords <hi>witneſſes.</hi> They are ſuch as have their <hi>Banner of witneſs diſplayed,</hi> 
+                  <note place="margin">
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>evel. 11. 3.</note> notwithſtanding all the bloody rage of Antichriſt. To deny the name of Chriſt, or to wave the publick owning of truths and wayes which the Lord Jeſus owns and contends for, this is to be Lying children, and dreadful will be the iſſue, if the word of Chriſt be true, <hi>Mat.</hi> 10. 32, 33. <hi>Mar.</hi> 8. 38. Many caſes there are in this matter not here to be touched upon, but if we be the Lords, and he have any delight in us, we ſhall not fail in the <hi>main</hi> of this duty. The Church of Chriſt hath ever had this <hi>vi<g ref="char:EOLhyphen"/>ſibility of a witneſs</hi> in her <hi>confeſſion</hi> of the truths of Chriſt, and <hi>oppoſition</hi> unto the lies of Antichriſt, 1 <hi>Tim.</hi> 3. 15.</p>
+               <p n="5">5. <hi>Special fidelity anſwerable unto ſpecial truſt committed.</hi> As the Lord Jeſus is the <hi>one great Steward,</hi> whom the Father hath ſet up and appointed over all; ſo there are many <hi>inferiour ſubſervient Stewards</hi> under him. Some are Stewards in <hi>higher,</hi> ſome in <hi>inferiour</hi> Ranks and capacities. There are diverſities of gifts which are diſpenſed, unto ſome <hi>eminency of parts and natu<g ref="char:EOLhyphen"/>ral abilities,</hi> unto ſome the <hi>wealth of this world,</hi> unto ſome <hi>a large and ſwaying intereſt in the Many,</hi> unto ſome <hi>Authority and Office.</hi> Now all theſe gifts they are <hi>Talents</hi> as well as <hi>Gifts;</hi> Gifts as <hi>freely beſtowed and received,</hi> Talents in reſpect of the <hi>end wherefore they are beſtowed,</hi> viz. that they may be improved, and an account given of them. To betray a mans <hi>truſt,</hi> or not to improve his <hi>Talent,</hi> is to lie and deal falſly, for <hi>of a Steward it is required that he be faithful,</hi> 1 Cor. 4. 2. <hi>As every one hath re<g ref="char:EOLhyphen"/>ceived the gift, ſo we are to miniſter the ſame as good ſtewards of the manifold grace of God,</hi> 1 Pet. 4. 10. All the Lords people are to be faithful in whatſoever truſt is committed unto them, and in ſpecial <hi>Magiſtrates and Rulers,</hi> and ſo alſo <hi>Miniſters</hi> that are Stewards in the Houſe of God, 1 <hi>Cor.</hi> 4. 1. <hi>Luke</hi> 12. 42, 43, 44.</p>
+               <p n="6">6. <hi>Stedfaſtneſs and conſtancy; perſeverence and holding out, and that in a way of fellowſhip and Communion with the people of God,</hi> Heb. 10. 23, 24, 25. Backſliding children are lying children. To begin well, but not to hold out, not to maintain our integrity, purity, fellowſhip, faithfulneſs unto the death, this is breach of Covenant, and to belie the Lord and his wayes, <hi>Jer.</hi> 2. 5. <hi>Gal.</hi> 5. 7, 8, 9. <hi>Coloſſ.</hi> 2. 6, 7. 2 <hi>Pet.</hi> 3. 17, 18.</p>
+               <pb n="15" facs="tcp:101731:9"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> 
+                  <hi>How is it ſaid in the Doctrine, That ſo the Lord is, or becomes the Saviour of his people?</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 1. There is nothing of <hi>Merit</hi> implied in it.</p>
+               <p n="2">2. There is no barre put unto the Lords proceeding ſome<g ref="char:EOLhyphen"/>time with his people upon terms of <hi>Soveraignty and Prerogative,</hi> in the diſpenſations of his grace and mercy, as <hi>Iſa.</hi> 57 17, 18, 19.</p>
+               <p n="3">3. It is to be underſtood of the Lords <hi>ordinary way of dealing with his people.</hi> It would be horrible preſumption in us to ex<g ref="char:EOLhyphen"/>pect and promiſe to our ſelves Salvation in any contrary way; but in this way of fidelity and faithfulneſs, it would be a ſin<g ref="char:EOLhyphen"/>full deſpondency not to hope, and expect it upon terms of free-grace.</p>
+               <p>
+                  <hi>Reaſ.</hi> 1. Becauſe <hi>our fidelity and uprightneſs doth now exactly anſwer the fidelity and uprightneſs of God in the Covenant.</hi> Our truth doth fitly anſwer Gods truth and Covenant-All-ſufficien<g ref="char:EOLhyphen"/>cy, <hi>Gen.</hi> 17. 1.</p>
+               <p>
+                  <hi>Reaſ.</hi> 2. Becauſe <hi>when the Lords people prove thus, Children that will not lie, now they are his peculiar Glory.</hi> The Lord may and doth in this caſe make his boaſt of, and glory in his people, <hi>Job</hi> 1. 8. If thoſe who have Covenanted with God, deal falſly in his Covenant, and prove Liars unto him, now they ſtain the glory of God, reproach and pollute his Name; but if they maintain their integrity, continue faithful and upright, now they are a Name and a Praiſe to him; and <hi>for Iſrael his glory will the Lord place ſalvation in Zion,</hi> Iſa. 46. 13. <hi>
+                     <g ref="char:V">Ʋ</g>pon all the glory there ſhall be a defence,</hi> Iſa. 4. 5. <hi>With the upright the Lord will ſhew himſelf upright,</hi> 2 Sam. 22. 26.</p>
+               <p>
+                  <hi>Reaſ.</hi> 3. Becauſe <hi>this is the Aim, and ſhall be the final Iſſue of all the providential diſpenſations of God towards his people, to make them to be ſuch children as will not lie.</hi> The Lord will never ceaſe working, <hi>afflicting, ſifting, purging,</hi> till he bring his people to be of this <hi>frame,</hi> although there be but a <hi>Remnant</hi> that wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l endure and hold out thereunto, <hi>Zeph.</hi> 3. 13. <hi>Jer.</hi> 31. 23. <hi>Iſa.</hi> 1. 25, 26, 27. <hi>Rev.</hi> 21. 27.</p>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>And here I ſhall conſider that the words of the Text are ſpo<g ref="char:EOLhyphen"/>ken concerning <hi>a People, even the Body of a Nation;</hi> and ſo my endeavour ſhall be to apply the Truths delivered, unto this preſent Aſſembly ſtanding before the Lord this day as the <hi>Body</hi>
+                     <pb n="16" facs="tcp:101731:10"/> 
+                     <hi>of this People:</hi> Such in ſeveral reſpects is the Capacity of this ſolemn Congregation, and unto you <hi>as ſuch,</hi> my deſire is to ſpeak in the Name of the Lord. For many a day and year, even from our firſt beginnings hath this word of the Lord been verified concerning us in this Wilderneſs; <hi>The Lord hath ſaid of</hi> New-England, <hi>Surely they are my People, Children that will not lie, ſo hath he been our Saviour.</hi> Upon this Baſis have all the <hi>Saviourly <g ref="char:V">Ʋ</g>ndertakings</hi> of the Lord been founded in the midſt of us, and upon this bottom do we unto this day abide.</p>
+                  <p>The ſolemn work of this day is <hi>Foundation-work;</hi> not to lay a new Foundation, but to continue and ſtrengthen, and beautifie, and build upon that which hath been laid. Give me leave therefore, Honoured and Beloved, to awaken, and call upon you, in the Name of him who ſends me, with reference unto thoſe <hi>Foundations</hi> that are held forth to us in the Text, for if theſe ſhould be <hi>out of courſe,</hi> what could the Righteous do? If we ſhould ſo fruſtrate and deceive the Lords Expecta<g ref="char:EOLhyphen"/>tions, that his Covenant-intereſt in us, and the Workings of his Salvation be made to ceaſe, then All were loſt indeed; Ruine upon Ruine, Deſtruction upon Deſtruction would come, until one ſtone were not left upon another.</p>
+                  <p>Let the Uſes be theſe four.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 1. <hi>Of Information;</hi> to let <hi>New-England</hi> know what that gracious infinitely wiſe, holy and awful diſpenſation of divine Providence is, under which the Lord hath ſet us and con<g ref="char:EOLhyphen"/>tinued us unto this day. We muſt look upon our ſelves as un<g ref="char:EOLhyphen"/>der a <hi>ſolemn divine Probation;</hi> It hath been and it is a Proba<g ref="char:EOLhyphen"/>tion-time, even to this whole People. Under great hopes, and ſingular eminent Expectations hath the Lord our God been trying of us, and is yet trying us in the wayes of his Salvation. There is this <hi>one</hi> voice of all his Providences to<g ref="char:EOLhyphen"/>wards us; they call aloud unto us in this language of a Pro<g ref="char:EOLhyphen"/>bation-time, <hi>To day if this my people will hear my voice;</hi> To day if they will come up to the Lords Expectations, and anſwer his promiſes; To day, that is, whileſt it is a day of Salvation, whileſt the Lord is yet ſo wonderfully preſerving of us, diſ<g ref="char:EOLhyphen"/>playing his Banner over us, holding underneath the Everlaſt<g ref="char:EOLhyphen"/>ing Arms, and making us to taſte ſo much of his loving kind<g ref="char:EOLhyphen"/>neſs and tender mercies every way. Divine Expectations
+<pb n="17" facs="tcp:101731:10"/> fruſtrated will iſſue dreadfully, when the Lord ſhall make us know his <hi>breach of promiſe,</hi> Numb. 14. 34. This we muſt know, that the Lords promiſes, and expectations of great things, have ſingled out <hi>Now-England,</hi> and all ſorts and ranks of men amongſt us, above any Nation or people in the world; and this hath been and is a time and ſeaſon of eminent trial to us. If I ſhould ſay that the very world, or common ordinary Pro<g ref="char:EOLhyphen"/>feſſors expect great things from us at this day, there is a great deal of weight in it; If I ſay that the faithful precious ſuffering Saints of God in all other places, that have heard of the Lords Providences towards us, do expect and promiſe great things from us, this is farre more; But to mention the Lords own Expectations, this is moſt of all, theſe are certainly moſt ſo<g ref="char:EOLhyphen"/>lemn and awfull. Every Expectation of God is moſt juſt and righteous. <hi>Are not my wayes equal?</hi> ſaith God, <hi>Ezek.</hi> 18. 29. Yes, moſt equal, bleſſed God; Bountiful and Rich haſt thou been in all thy free Beſtowings; equal and juſt art thou in all thy greateſt Expectations. If we do but run over the fore<g ref="char:EOLhyphen"/>mentioned grounds of divine Expectation, it will be ſufficient to commit the judgement of this caſe even to <hi>our ſelves,</hi> as <hi>Iſa.</hi> 5. 3.</p>
+                  <p>
+                     <hi>As for ſpecial Relation unto God;</hi> whom hath the Lord more ſignally exalted then his people in this Wilderneſs? The Name and Intereſt of God, and Covenant-relation to him, it hath been written upon us in Capital Letters from the begin<g ref="char:EOLhyphen"/>ning. God had his <hi>Creatures</hi> in this Wilderneſs before we came, and his <hi>Rational Creatures</hi> too, a multitude of them; but as to <hi>Sons</hi> and <hi>Children</hi> that are Covenant-born unto God, Are not we the <hi>firſt</hi> in ſuch a Relation? in this reſpect we are ſurely the Lords <hi>firſt-born</hi> in this Wilderneſs. Of the poor Natives before we came we may ſay as <hi>Iſa.</hi> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3. 19. <hi>They were not called by the Lords Name, he bear not Rule over them:</hi> But we have been from the beginning, and we are the <hi>Lords.</hi>
+                  </p>
+                  <p>
+                     <hi>As for Extraction and <gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ent,</hi> if we be conſidered as a <hi>Po<g ref="char:EOLhyphen"/>ſterity,</hi> O what Parents and Predeceſſors may we the moſt of us look back unto, through whoſe Loins the Lord hath ſtretched forth the line of his Covenant, meaſuring of us out, and taking us in to be a peculiar Portion to himſelf?</p>
+                  <p>
+                     <hi>As for Reſtipulations,</hi> and Engagements back again to God;
+<pb n="18" facs="tcp:101731:11"/> what awfull publick Tranſactions of this kinde have there been amongſt us? Hath not the eye of the Lord beheld us laying <hi>Covenant-Engagements</hi> upon our ſelves? hath not his ear heard us ſolemnly <hi>Avouching</hi> him, and him alone, to be our God and Saviour? Hath not a great part of the world been a wit<g ref="char:EOLhyphen"/>neſs of theſe things, even of our explicite ownings of, and Covenantings with the Lord as our God, laying this as a foun<g ref="char:EOLhyphen"/>dation-ſtone in our Building; and of this we may ſay, It hath been a ſpecial Exaſperation unto Adverſaries and Ill-willers, that deſpiſed <hi>New-England</hi> hath laid claim to, and publickly avouched and challenged a ſpecial Intereſt in God above o<g ref="char:EOLhyphen"/>thers.</p>
+                  <p>
+                     <hi>As for our Advantages and Priviledges</hi> in a Covenant-ſtate, here time and ſtrength would fail to reckon up what we have enjoyed of this kinde; if any people in the world have been lifted up to heaven as to Advantages and Priviledges, we are the people. Name what you will under this Head, and we have had it. We have had <hi>Moſes</hi> and <hi>Aaron</hi> to lead us; we have had Teach<g ref="char:EOLhyphen"/>ings and Inſtructions, <hi>line upon line, and precept upon precept;</hi> we have had Ordinances and Goſpel-diſpenſations the choiceſt of them; we have had Peace and Plenty; we have had Af<g ref="char:EOLhyphen"/>flictions and Chaſtiſements in meaſure; we have had the Hearts, and Prayers, and Bleſſing of the Lords people every where; we have had the Eye and Hand of God, watching and working every way for our good; our Adverſaries have had their Rebukes, we have had our Encouragements, and a wall of fire round about us, What could have been done more for us then hath been done?</p>
+                  <p>And then in the laſt place, as to <hi>New-Englands firſt wayes;</hi> what glorious things might here be ſpoken, unto the praiſe of free-grace, and to juſtifie the Lords Expectations upon this ground? Surely God hath often ſpoke concerning His Chur<g ref="char:EOLhyphen"/>ches here, as in <hi>Jer.</hi> 2. 2. <hi>I remember the kindneſs of thy youth, &amp;c.</hi> O what were the open Profeſſions of the Lords people that firſt entred this Wilderneſs? How did our fathers enter<g ref="char:EOLhyphen"/>tain the Goſpel, and all the pure Inſtitutions thereof, and thoſe Liberties which they brought over? What was their Commu<g ref="char:EOLhyphen"/>nion and Fellowſhip in the Adminiſtrations of the Kingdome of Jeſus Chriſt? What was the pitch of their Brotherly love,
+<pb n="19" facs="tcp:101731:11"/> of their Zeal for God and his Wayes, and againſt wayes de<g ref="char:EOLhyphen"/>ſtructive of Truth and Holineſs? What was their Humility, their Mortification, their Exemplarineſs? How much of Holi<g ref="char:EOLhyphen"/>neſs to the Lord was written upon all their wayes and tranſ<g ref="char:EOLhyphen"/>actions? God ſifted a whole Nation that he might ſend choice Grain over into this Wilderneſs.</p>
+                  <p>Thus it hath been with us as to grounds of Divine Expecta<g ref="char:EOLhyphen"/>tion: And therefore let us in the fear of God learn this great truth to day, and receive the inſtruction thereof ſealed up un<g ref="char:EOLhyphen"/>to all our ſouls; <hi>That the great God hath taken up great Expe<g ref="char:EOLhyphen"/>ctations of us, and made great Promiſes to himſelf concerning us, and this hath been, and is</hi> New-Englands <hi>day and ſeaſon of Pro<g ref="char:EOLhyphen"/>bation.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 2. <hi>Of Examination and Conviction</hi> as to the Returns that we have made to God our Saviour; and that proof which he hath had of us, under ſuch and ſo long a trial. How have we kept our ſelves from being <hi>lying Children?</hi> Here is ſolemn matter of Examination.</p>
+                  <p>How the Lord hath carried it towards us cannot but be ma<g ref="char:EOLhyphen"/>nifeſt, <hi>Jer.</hi> 2. 31. <hi>O generation, ſee the word of the Lord,</hi> &amp;c. How we have carried it towards God, as it cannot lye in the dark, ſo it ought to abide under the moſt ſerious and practical reflections of all Ranks and degrees amongſt us, and of every ſoul of us in ſpecial. Let it not be thought unſeaſonable to call upon you as a <hi>Repreſentative Aſſembly,</hi> to look heedfully in<g ref="char:EOLhyphen"/>to the <hi>glaſs</hi> of the Truth delivered, that we may view the pre<g ref="char:EOLhyphen"/>ſent <hi>face</hi> of things amongſt us, even the <hi>face</hi> of this our pre<g ref="char:EOLhyphen"/>ſent time and generation; not as <hi>natural men,</hi> to forget the <note place="margin">Jam. 1. 23, 24.</note> ſame immediately, but as <hi>ſpiritual men</hi> to retain and judge of things, and as <hi>gracious ones</hi> to lament and intercede with the Lord. O what a ſad <hi>Metamorphoſis</hi> hath there of later years paſſed upon us in theſe Churches and Plantations? What a fruitful production of <hi>Lies</hi> hath there been in the midſt of us? of Lies in Profeſſion and Practice, in Doctrine and in Conver<g ref="char:EOLhyphen"/>ſation? Certainly the <hi>father of Lies</hi> hath been bringing in his lies apace; the lying ſpirit begins to have a large walk amongſt us, venting and diſcovering it ſelf even to the very face of the God of Truth, and engaging the Lord deeply in the <hi>quarrel of his Covenant.</hi>
+                  </p>
+                  <pb n="20" facs="tcp:101731:12"/>
+                  <p> Children there are many in this Wilderneſs; A numerous Offspring hath the Lord your God given unto you: But what are we the Generation Riſen and Riſing up? Are we <hi>Children that will not lie?</hi> would to God it were ſo: Are we not rather a multitude of us; ſuch as <hi>keep not the Covenant of our God? that refuſe to walk in his wayes? that flatter him with our mouthes, and lie unto him with our tongues? becauſe our heart is not right with him, nor are we ſtedfaſt in his Covenant,</hi> Pſal. 78. 10, 36, 37.</p>
+                  <p>When ever the Lord proves a people, He is moſt critical in obſerving the diſcoveries that are made of them; we can in no wiſe lye hid under Divine Probation. Hence ſaith the Lord <hi>Jer.</hi> 2. 21. <hi>How art thou turned into the degenerate plant of a ſtrange vine <g ref="char:V">Ʋ</g>NTO ME?</hi> that is, not unto me as an <hi>Omni<g ref="char:EOLhyphen"/>ſcient</hi> God that know all things before they actually come to paſs; but unto me <hi>upon Probation</hi> and trial made. It is a ſo<g ref="char:EOLhyphen"/>lemn thought for us to think, and a ſolemn enquiry for us to make this day; what are we <hi>unto the Lord our God,</hi> under all his trials of us? And it is a ſolemn Conviction and Charge againſt us, to have it ſpoken, as it muſt be ſpoken in the Name of the Lord this day, <hi>O New-England,</hi> thy God did expect better things from thee and thy Children; not Worldlineſs, and an inſatiable deſire after periſhing things; not Whore<g ref="char:EOLhyphen"/>domes and Fornications; not Revellings and Drunkenneſs; not Oaths &amp; falſe Swearings; not Exactions and Oppreſſions; not Slanderings and Backbitings; not Rudeneſs and Incivility, a degeneracy from the good Manners of the Chriſtian world; not Formality and Profaneneſs, to loath Manna, to deſpiſe holy things, to grow Sermon-proof and Ordinance-proof; not Contentions and Diſorders; not an Itching after new things and wayes; not a rigid Phariſaical Spirit; not a Contempt of Superiours; not Unthankfulneſs and diſreſpect to Inſtruments of choice Service; not a growing weary of Government, and a drawing looſe in the Yoke of God: Not theſe things, but better things, O <hi>New England,</hi> hath thy God expected from thee. But what hath the Lord found? Do not you who are our <hi>Fathers in the Cowmon-wealth</hi> know? or cannot thoſe <hi>Watchmen</hi> of the Lord tell us, whom he hath ſet for a <hi>Tower and a Fortreſs amongſt us, to know and try the way of this people?</hi>
+                     <pb n="21" facs="tcp:101731:12"/> Certainly all theſe falſe and evil things, and that not by <hi>ſecret ſearch onely,</hi> but openly and in the view of the world, hath the Lord found. Alas! how is <hi>New-England</hi> in danger this day to be loſt even in <hi>New-England?</hi> to be buried in i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s own Ruines? How ſadly may we lament it that <hi>All are not Iſrael that are now of Iſrael?</hi> How is the good grain diminiſhed, and the chaff in<g ref="char:EOLhyphen"/>creaſed? The firſt generation have been ripened time after time, and the moſt of them gathered in as <hi>ſhocks of corn in their ſea<g ref="char:EOLhyphen"/>ſon;</hi> But we who riſe up to tread out the footſteps of them that are gone before us, alas! what are we? It is a ſad name to be ſtyled <hi>Children that are corrupters;</hi> but are we not indeed many <note place="margin">Iſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 1. 4.</note> of us <hi>corrupted,</hi> and which is far worſe <hi>Corrupters?</hi> How is our <hi>wine mixed with water?</hi> what coolings and abatements are there to be charged upon us in the things that are good, and that have been our glory? We have abated in our eſteem of Ordinances, in our hung<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing and thirſting after the rich provi<g ref="char:EOLhyphen"/>ſions of the Houſe of God; in our good ſtomacks to all that which is ſet before us upon the Table of the Goſpel. We have abated in our Love and Zeal, in our wiſe, tender and faithful manage<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent of that great duty of mutual watchfulneſs and re<g ref="char:EOLhyphen"/>proof.</p>
+                  <p>There are many among us that have even <hi>ſuffered many things in vain;</hi> many that having <hi>begun in the ſpirit,</hi> do now walk as if they were to be <hi>made perfect by the fleſh;</hi> many that are gone off from God in point of dependance, looking out to ſecure ſome other friends and hiding-places to themſelves beſides the Lord, againſt thoſe changes of times that may come; many (as we may juſtly fear) that would but too ſoon and too eaſily in a day of trial entertain a <hi>Lie</hi> in the Worſhip of God, and return to the <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ny<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ns and garlick of Egypt again.</hi> How hath that evil work of Strife and Diviſion ſprung up almoſt every where amongſt us? in which it is ſolemnly to be noted, that there is ever a <hi>mixture of ſin and puniſhment</hi> going together: In this thing cer<g ref="char:EOLhyphen"/>tainly we have failed the Lords Expect<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ion; for he hath ſaid, Surely in a Wilderneſs, under the eye of Obſervers, under ſuch Leaders, and the free liberty of all thoſe wayes of Order which Chriſt hath appointed to build up the Peace and Communion of his people, they will certainly be of <hi>one heart and ſoul, keeping the unity of the ſpirit in the bond of peace, and whereto they have</hi>
+                     <pb n="22" facs="tcp:101731:13"/> 
+                     <hi>attained, walk by the ſame rule, and minde the ſame thing.</hi> Strict and impartial Examination would yield large matter of un<g ref="char:EOLhyphen"/>controlable Conviction as to ſuch things as theſe. Alas! what way of God with us is there, that hath not iſſued in the diſco<g ref="char:EOLhyphen"/>very of the <hi>Lie</hi> amongſt us? The Anſwers of Prayer that we have ſo often, and ſo eminently received, theſe have diſcovered <hi>our Lie,</hi> for we have as often <hi>returned again to folly.</hi> Our Af<g ref="char:EOLhyphen"/>flictions removed, theſe alſo have diſcovered the <hi>Lie,</hi> for with <hi>Hezekiah</hi> we have not <hi>returned according to the benefit done unto us.</hi> The Death and Removal of the Lords eminent Servants in one Rank and in another, this alſo hath manifeſted the <hi>Lie</hi> in many of us. Whileſt they lived their Piety and Zeal, their Light and Life, their Counſels and Authority, their Examples and Awe kept us right, and drew us on in the good wayes of God, to profeſs and practiſe the beſt things; but now that they are dead and gone, Ah how doth the unſoundneſs, the rottenneſs and hypocriſie of too many amongſt us make it ſelf known, as it was with <hi>Joaſh</hi> after the death of <hi>Jehojadah.</hi> In a word, we that ſtand before the Lord this day, we have gone leſs with God then we did at firſt engage and bid him for all his kin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neſs, and then we began at firſt to yield him, for all the Mercies, Privi<g ref="char:EOLhyphen"/>ledges and Liberties of this Place. You that have tender and gracious hearts, ſuffer theſe things to affect and afflict them day by day. Verily if the load of them be not taken up and born by a conſiderable number amongſt us in ſuch a way, there is great fear leſt it crack and ſink us without remedy.</p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 3. <hi>Of Exhortation.</hi> As we would have the Lord to be and to continue to be our Saviour, ſo let us ſet our ſelves to anſwer the Lords Expectations. Let <hi>New-England</hi> anſwer the Lords Expectations of <hi>New-England,</hi> that the Lord Jehovah may be as he hath been <hi>New-Englands</hi> Saviour.</p>
+                  <p>Men, Brethren and Fathers, We are all bound in a Covenant of Truth, to and with the God of Truth; There is an unwor<g ref="char:EOLhyphen"/>thy Meſſenger ſent to you this day, to put you in minde of your Obligations, and ſolemnly to call upon you to be <hi>True men</hi> to God. <hi>New-England men</hi> ſhould be <hi>True men;</hi> let not the con<g ref="char:EOLhyphen"/>trary hereunto be our reproach either with God or man.</p>
+                  <p>What the Lord expects from us hath been laid down before; I ſhall not enlarge upon thoſe ſeveral Particulars again. That
+<pb n="23" facs="tcp:101731:13"/> which I have in my aim, is, not any thing of <hi>doubtful diſputation,</hi> not meerly Civils or Prudentials; but the ſure and certain, the often acknowledged, and ſtated, common Intereſt of the people of God, and of you the Lords People in ſpecial; The Intereſt of Practical Piety and Holineſs, ſo much reproached at this day; The Intereſt of unmixed, ſpiritual Goſpel-worſhip, and of the ſincere and open profeſſion and owning of the truths and wayes of Chriſt, though perſecuted and trampled on at this day in the world; The Intereſt of Unity and Peace in the wayes of Refor<g ref="char:EOLhyphen"/>mation, and of expecting and waiting for the iſſue of all thoſe great and Aſtoniſhing Providences that are working every where; The Intereſt of theſe things, and of juſt and Righteous Liberties in order hereunto, is all that which I intend. The times are come, and haſtning more and more, wherein faithful<g ref="char:EOLhyphen"/>neſs to God in all theſe things, will be the moſt glorious Crown that can be worn upon Earth; A Crown upon which it ſhall be graven, <hi>Here is the Faith and Patience of the Saints.</hi> This then <note place="margin">Rev. 13. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. &amp; 14 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> is the word of the Lord unto his <hi>New-England</hi> Churches and People this day, <hi>Let no man take this your Crown from you;</hi> No Temptations, no Corruptions, no Inſinuations, no Threatnings, no Fears, no Adverſaries.</p>
+                  <p>If God had betruſted us here, but with a little; <hi>yet he that is</hi> 
+                     <note place="margin">Luk 16 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Mat. 25 21. 23.</note> 
+                     <hi>unfaithful in a little, would be ſo in much; and he that is faithful in a little, ſhall be made ruler over much:</hi> But the Lord hath betruſt<g ref="char:EOLhyphen"/>ed us with much; with a very choice, and conſiderable part of the Intereſt of his Name and Glory; and that too in the <hi>view</hi> of the world, and upon manifold <hi>Advantages</hi> in our upholding, and cleaving to the ſame. God hath thruſt down his people from their <hi>Advantages</hi> in other places; we have ſinned againſt <hi>ours,</hi> but the Lord yet continues them, as the Liberty and Pri<g ref="char:EOLhyphen"/>viledge of this day doth teſtifie aloud to us. <hi>New-England</hi> hath yet its <hi>Advantages</hi> as well as its <hi>Engagements</hi> in this great mat<g ref="char:EOLhyphen"/>ter of Owning the Cauſe of God, and ſtanding their ground for God and Chriſt and the Goſpel. And this we muſt know, that this is the time wherein <hi>he that is not with Chriſt is againſt</hi> 
+                     <note place="margin">M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 12. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</note> 
+                     <hi>him;</hi> the reaſon is, becauſe the Controverſie comes now to be <hi>ſtated</hi> more openly, and to be <hi>avouched</hi> more profeſſedly in the world. Antichriſt is now diſplaying his Colours, ſetting up his Standard, and ſo is the Lord Jeſus Chriſt, the Anointed <hi>King</hi>
+                     <pb n="24" facs="tcp:101731:14"/> 
+                     <hi>and Prieſt and Prophet,</hi> the Fathers <hi>Heir of all things.</hi> The field is large whereinto the Forces on both ſides are drawing; but the fight will be very cloſe, and the quarrel in the iſſue finally decided; there can be no <hi>neutralizing</hi> therefore in this day. <hi>He that gathereth not with Chriſt, ſcattereth abroad;</hi> we muſt de<g ref="char:EOLhyphen"/>clare for whom we are, and chooſe our ſide, there will be no o<g ref="char:EOLhyphen"/>ther Remedy. We indeed of theſe ends of the Earth have long ſince made our choice; we have given up our ſelves to the Lord Jeſus as to our <hi>Spiritual King and Law-giver,</hi> to be his portion and inheritance: Now that which the Lord expects is, that we ſtick to this our choice, that we give not back a whit, ſo as to be<g ref="char:EOLhyphen"/>come <hi>Liars</hi> unto that God who unto us hath not been as <hi>waters that fail. A poor man,</hi> ſaith <hi>Solomon, is better then a liar,</hi> Prov. 19. 22. to be called <hi>Poor New-England,</hi> this may ſeem to be a Reproach but in truth is not, for <hi>he that mocketh the poor reproach<g ref="char:EOLhyphen"/>eth</hi> 
+                     <note place="margin">P<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>v. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> 
+                     <hi>his maker;</hi> but to be called <hi>Falſe and lying New-England,</hi> this ſhall be a blot and a reproach never to be wiped away.</p>
+                  <p>As Satan ſaid concerning <hi>Job,</hi> when God boaſted as it were to him of his integrity, <hi>Chap.</hi> 1. 11. <hi>Put forth thine hand and touch all that he hath, and he will curſe thee to thy face;</hi> and ſo again <hi>Chap.</hi> 2. 5. So it may be Satan and his Inſtruments may be tempting and ſaying concerning us; Let that people of ſo much Profeſſion in the Wilderneſs be but thus or thus proved and tried, let but this or that happen to them, this or that Af<g ref="char:EOLhyphen"/>frightment, this or that Allurement; Let but ſuch and ſuch be once removed by death or otherwayes, and then it ſhall be ſeen what they will come to; It will then appear how they will enter<g ref="char:EOLhyphen"/>tain the wayes of the world, and give up Goſpel and Ordinances and Liberties as well as others, <hi>ſelling their Birthright-even for a meſs of pottage.</hi> But ſhall it ever be thus indeed? God forbid. We have been liſted in the number of thoſe followers of the Lamb who are <hi>called, and choſen and faithful;</hi> let us in the fear <note place="margin">Rev. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 14.</note> of God continue ſtill to be of them. Special marks of favour the Lord hath been pleaſed from time to time to ſet upon thoſe faithful undertakings of his Servants in this Wilderneſs, where<g ref="char:EOLhyphen"/>in keeping cloſe to God in matters Civil and Eccleſiaſtical hath been the deſign in truth and in ſincerity: now the Lord ever<g ref="char:EOLhyphen"/>more keep us from bringing the marks of infamy upon our ſelves in any contrary way of walking. If the Lord hath named
+<pb n="25" facs="tcp:101731:14"/> us his <hi>Witneſſes,</hi> and hath produced us as ſuch unto the world; &amp; we ſhould be now ſinfully ſilent, or withdraw, or alter our Te<g ref="char:EOLhyphen"/>ſtimony, as to any truth or way or work of his, O what a provo<g ref="char:EOLhyphen"/>cation would this be? It is a day wherein the Lord hath been Riding Circuit, and making proof of all Ranks and degrees of men, and he hath found them Liars; <hi>Mean men have been vanity,</hi> 
+                     <note place="margin">Pſal. 62. 9.</note> 
+                     <hi>and men of high degree a lie;</hi> they have profeſſed for Reforma<g ref="char:EOLhyphen"/>tion, and to be for the intereſt of Holineſs and Goſpel-worſhip, and for the juſt Liberties of the Lords people, but in an hour of temptation he hath found them <hi>Liars:</hi> Now what doth <hi>New-England</hi> ſay? <hi>Will ye alſo go away?</hi> Let ſuch a queſtion tend to eſtabliſh your hearts the more; as it was the iſſue thereof upon the Diſciples, <hi>Joh.</hi> 6. 67, 68, 69. It will be a woful day indeed, when the Lord ſhall take up thoſe words of witneſs againſt us, <hi>Iſa.</hi> 1. 2, 3. It will be a doleful thing to be of a <hi>broken credit</hi> with God, and for the Lord to pronounce us <hi>B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nkrupts.</hi> If we fruſtrate the <hi>Lords</hi> Expectations, he will cut off <hi>ours.</hi> The one contains in it the greateſt aggravations of ſin, and the other of puniſh<g ref="char:EOLhyphen"/>ment. We cannot make <hi>God</hi> miſerable by the one, <hi>(for of theſe ſtones he can raiſe up children unto Abraham)</hi> but <hi>we</hi> ſhall be mi<g ref="char:EOLhyphen"/>ſerable with a witneſs in the execution of the other upon us. It hath been the glory and the glorying of the Lords people, that they have made no defection from him, no not in the ſaddeſt times, <hi>Pſal.</hi> 44. 17, 18, 19. Let the ſame thing be our glory and our glorying.</p>
+                  <p>In the further preſſing of this Exhortation, let me a little more particularly direct my ſelf, 1. <hi>To the Remainders of the Ancient Stock amongſt us.</hi> 2. <hi>To the preſent Generation.</hi> 3. <hi>To our Honoured Leaders and Rulers.</hi>
+                  </p>
+                  <p>Firſt, <hi>
+                        <g ref="char:V">Ʋ</g>nto thoſe who are yet abiding with us of the firſt gene<g ref="char:EOLhyphen"/>ration of the Lords faithful Servants,</hi> thoſe Plants of Renown wherewith God ſet his Garden here at the firſt. Let me ſpeak a few words unto you <hi>Fathers,</hi> becauſe <hi>you have known that which was from the beginning;</hi> you may take up the Apoſtle <hi>John</hi>'s ex<g ref="char:EOLhyphen"/>preſſions, and ſay, <hi>That which was from the beginning, which we</hi> 
+                     <note place="margin">1 Joh 1. 1, 3</note> 
+                     <hi>have heard, which we have ſeen with our eyes, which we have looked upon, and our hands have handled</hi> of the Cauſe and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntereſt of God in this Wilderneſs. You have had a long and large Expe<g ref="char:EOLhyphen"/>rience of things; you have ſeen all the great works which the
+<pb n="26" facs="tcp:101731:15"/> Lord hath done for this people; you have been long rooted and ſatiated in the Houſe of the Lord: As you ought to be, and are, ſo we eſteem of you, and account you to be as a <hi>Crown</hi> and an <hi>Honour</hi> in the midſt of us: Trials you have ſeen, and trials you may yet further ſee, but your <hi>Triumph</hi> is now at hand. You have by this time parted with the moſt and the choiceſt of your Contemporaries, your Companions in the foundations of the work of Chriſt here; And your eyes behold this day, that an<g ref="char:EOLhyphen"/>other Generation is riſen up, and begin to ſtand thick upon the Stage; and that, even of them, there is one, to whoſe lot it falls to ſpeak to you in the Name of the Lord this day. Now what is the ſum of your deſires, and would be the chief and top of your joyes, as to thoſe you muſt ſhortly leave behinde you? Is it not that your <hi>children after you may be found walking in the truth,</hi> 
+                     <note place="margin">2. Joh. 4. 3 Joh. 4.</note> owning the Covenant of God, maintaining and upholding the ſame Intereſt of Holineſs and Reformation wherein you have been engaged before us? <hi>Then ſuffer the word of Exhortation</hi> in a few words; And the Lord help you to conſider the ſeaſon; <hi>Your ſeaſon,</hi> who have not long to be Examples, and as the <hi>Salt</hi> in the midſt of us; and <hi>our ſeaſon,</hi> who have not long to enjoy you. O believe much and pray much for your Succeſſors in the Cauſe and work of God; ſhew forth and declare all the works <note place="margin">Exod. 10. 2. Pſ 78. 4, 5, 6, 7.</note> of God unto your Children; Charge and adjure them to keep the Covenant of the Lord their God; forewarn them of ſuch wayes and courſes and perſons, as you know, upon ſufficient <hi>experience,</hi> to be deſtructive to the peace and beauty of our <hi>Zion. As long as you are in this Tabernacle, ſtir them up by putting them</hi> 
+                     <note place="margin">2 Pet. 1. 13.</note> 
+                     <hi>in remembrance,</hi> that they may be eſtabliſhed in all thoſe truths and practices, which to own and abide in hath been <hi>New-Englands glory,</hi> and muſt be its <hi>preſervatian and ſafety</hi> in what<g ref="char:EOLhyphen"/>ever times are coming upon us. You know what Examples un<g ref="char:EOLhyphen"/>to this purpoſe you have in <hi>Moſes</hi> and <hi>Joſhua</hi> and <hi>David;</hi> The <note place="margin">Deut. 29, <hi>&amp;c</hi> Joſh. 23 <hi>&amp;</hi> 24 1 Kings 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1 Chron. 28.</note> Lord plant in you the ſame love and zeal and care for the Name of God and the welfare of your Poſterity, <hi>before you go hence and be ſeen no more.</hi>
+                  </p>
+                  <p>Secondly, <hi>
+                        <g ref="char:V">Ʋ</g>nto thoſe who are the Generation riſen and riſing up in the midſt of us.</hi> Suffer <hi>me,</hi> my <hi>Brethren</hi> and <hi>Companions,</hi> who am one <hi>of you,</hi> to direct this word of the Lord unto <hi>you</hi> alſo this day.</p>
+                  <pb n="27" facs="tcp:101731:15"/>
+                  <p> It is we that begin now to be the <hi>Body</hi> and <hi>Bulk</hi> of this people every where, and to ſtand up in the room of thoſe that are gone before us; How well we do or ſhall fill the ſame, the Searcher of all hearts he knows. This is ſure, that the work of God, and his Name, and his Expectations of great things, do this day de<g ref="char:EOLhyphen"/>ſcend upon us; even of <hi>us</hi> hath the Lord alſo ſpoken it, <hi>Surely Theſe are my people</hi> too, <hi>children that will not lie;</hi> for <hi>his Cove<g ref="char:EOLhyphen"/>nant is commanded unto many Generations.</hi> It is high time then for <note place="margin">Pſal. 10<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> us to be thorowly awakened; It is high time for us to ſtand up, ſolemnly to receive the charge, and bleſſing of the Lord our God, and of his faithful Servants that are departing from us. It is high time for us to prepare the ſhoulder in good earneſt, and to give our necks to the yoke of God, that we may not be a <hi>fruitleſs, a faithleſs, a perverſe Generation.</hi> It is true indeed that <note place="margin">Mat. 17. 17. Deut. 32. 5, 20.</note> there are through grace ſome <hi>firſt Ripe Grapes</hi> to be found a<g ref="char:EOLhyphen"/>mongſt us, (though of ſuch the Lord hath been ſnatching away ſome, (as of late) <hi>cluſters in which the new wine was found,</hi> and <note place="margin">Iſa. 65. 8.</note> much of the <hi>bleſſing</hi> of our Vine contained) but why ſhould we fruſtrate the Lord of that <hi>full vintage</hi> which he juſtly expects from <hi>our</hi> Generation. My Brethren, we are the Seed of ſuch as are and have been the <hi>friends of God;</hi> we are the <hi>Children of the Covenant</hi> and of the <hi>Kingdome;</hi> O that <hi>all that ſee us might acknowledge, that indeed we are the ſeed which the Lord hath bleſ<g ref="char:EOLhyphen"/>ſed.</hi> 
+                     <note place="margin">Iſa. 61. 9.</note> O that we might be as that ſeed ſpoken of and promiſed <hi>Iſa.</hi> 44. 3, 4, 5. upon which the Lord will <hi>pour his Spirit, and they ſhall ſpring up among the graſs, as willows by the water-courſes. One ſhall ſay, I am the Lords, and another ſhall call himſelf by the name of Jacob, and another ſhall ſubſcribe with his hand to the Lord, and ſurname himſelf by the name of Iſrael.</hi> O inexcuſable <hi>we</hi> if it be not thus! Were our fathers as a <hi>noble vine,</hi> and ſhall we be as the <hi>degenerate plant of a ſtrange vine? ſhall our vine be of the vine of Sodom, and of the fields of Gomorrah?</hi> were they as the <hi>beſt and choiceſt wine cheering God and man,</hi> and ſhall we be as the <hi>ſowreſt vinegar?</hi> ſhall our <hi>wine be as the poiſon of dragons?</hi> Shall <note place="margin">Deut. 32. 32, 33</note> all thoſe precious things of God in this Wilderneſs, which were ſo ſavoury and ſweet unto our fathers, and for the enjoyment of which, they made their <hi>bargain</hi> with God, and gave up their <hi>All</hi> elſwhere, ſhall theſe be unto us their Children, as ſapleſs, ſavour<g ref="char:EOLhyphen"/>leſs, <note place="margin">Pſal. 106 13. Exod 32. 8. Judg 2. 17.</note> husky things <hi>ſo quickly?</hi> ſhall we <hi>ſo ſoon</hi> ſay of them, <hi>What</hi>
+                     <pb n="28" facs="tcp:101731:16"/> 
+                     <hi>good ſhall this Birthright do us?</hi> Shall the world, and luſts and ſins, and vain liberties and new notions be more ſweet unto us and thirſted after, then Chriſt and Word and Ordinances, then ſtrict and godly Government, then the wings of Gods Cove<g ref="char:EOLhyphen"/>nant, then the labour and ſervice of the Houſe of God? God forbid. When God firſt began to keep Houſe in this Wilder<g ref="char:EOLhyphen"/>neſs, it was furniſhed with the choiceſt Houſhold-ſtuff; He had much Plate and Jewels, and other ſuch precious things, Veſſels of Gold and of Silver; ſhall we now riſe up to fill his Houſe with <hi>meer Lumber,</hi> worthleſs cumberſome ſorry ſtuff, that will by no one be look'd after in a day of burning, nor by any one lamented though conſumed in the fire? Shall not we bid as much as any in the world for an Intereſt in the Lord God of our fathers? for ſuch an Intereſt in him as our fathers had in God? Shall not this be more to us then this whole Wilderneſs, yea then the whole World can give to us beſide? for the Lords ſake let us not be of any other frame. Let not the words of this Exhortation riſe up as a Teſtimony againſt any of you. And that they may not, but that we may be found <hi>Children that will not lie,</hi> there are theſe Directions, omitting ſundry others that might have been given.</p>
+                  <p n="1">1. Make conſcience, not onely of <hi>being rightly informed</hi> in that cauſe of God which we are here wrapt up in, and in ad<g ref="char:EOLhyphen"/>hering whereunto the Lord hath hitherto preſerved and bleſſed his Churches and people, but alſo of <hi>getting a ſight and view of the divine beauty and glory thereof.</hi> There is nothing ſhort of <hi>true and real glory,</hi> divine ſpiritual glory, that can chain faſt our Souls to the Cauſe of God, ſo as to own and cleave to it in ſin<g ref="char:EOLhyphen"/>cerity at this day. When God carried out <hi>Abraham</hi> into ano<g ref="char:EOLhyphen"/>ther Land, he appeared to him as <hi>a God of glory,</hi> Acts 7. 2. ſo did God appear unto our fathers in the way wherein he led them hither, and in the Cauſe for which: Thus muſt he appear to us alſo, if ever we abide ſtedfaſt with him in that Cauſe. It is therefore a moſt ſweet Petition that the Church makes <hi>Pſal.</hi> 90. 16, 17. <hi>Let thy work appear unto thy ſervants, and thy Glory unto their children. Babylon</hi> paints her face anew at this day; <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> hath varniſhed his Intereſt, ſo that there are many who are allured and taken with the beauty of that Harlot; O let us beg of God that we may behold the beauty and the glory of
+<pb n="29" facs="tcp:101731:16"/> His Cauſe &amp; Intereſt amongſt us: And truly as to this Cauſe and Intereſt of God, there can be <hi>no other foundations laid then thoſe which have been laid. N-Englands</hi> true &amp; main Intereſt, the <hi>Cauſe</hi> of <hi>Chriſt</hi> in his <hi>Churches</hi> here, It is a fixed unalterable thing: It is not now to be found out by any <hi>New Light.</hi> But alas, how many of us grow up and never get one real view of the glory of it? of whom that complaint may be taken up <hi>Deut.</hi> 29. 4. <hi>We have not unto this day had an heart to perceive, or eyes to ſee, or ears to hear,</hi> no not unto this day. Let us take heed of enquiring of or liſtning, in this matter, unto the <hi>determinations</hi> and <hi>gloſſes</hi> of ſuch as have had no <hi>ſtanding</hi> in the wayes of God here, but have been grafted in upon <hi>By-Accounts,</hi> or move in the <hi>Excen<g ref="char:EOLhyphen"/>trick Orb</hi> of ſome Private Intereſt diſtinct from that of the whole. And let us alſo lay down this as a Rule; <hi>That whatſo<g ref="char:EOLhyphen"/>ever it is that hath been unanimouſly Rejected and Condemned in its claims by the Acknowledged Eminenteſt Reformers in each Age, ſince the Apoſtacy of Antichriſt prevailed, This can never in theſe our dayes juſtifie its Title to that Cauſe of Chriſt that is to be main<g ref="char:EOLhyphen"/>tained and contended for,</hi> Jer. 6. 16.</p>
+                  <p n="2">2. Let us ſtand <hi>feelingly</hi> under the <hi>weight</hi> of all thoſe Engage<g ref="char:EOLhyphen"/>ments that lye upon us to be an upright Generation unto God. The Lord hath laid all manner of Engagements upon us; <hi>By his Covenant,</hi> into the bond whereof we are brought; <hi>By all his Meſſengers and Servants</hi> whom he hath ſent, riſing up early and ſending them; <hi>By his Providences</hi> from the beginning; <hi>Ours</hi> are All the Salvations, the Experiences, the Miracles of Mercy and of Preſervation that have been beſtowed upon this people and the Cauſe of God here at any time, yea though we were not then born, <hi>Hoſ.</hi> 12. 4, 5. <hi>And we have laid Engagements upon our ſelves;</hi> we have ſaid that we would be the Lords: and O what a God is it that we have engaged our ſelves ſo ſolemnly unto? <hi>A God All ſufficient.</hi> Surely our Fathers have not <hi>inhe<g ref="char:EOLhyphen"/>rited lies or vanity, and things wherein there is no profit,</hi> in inherit<g ref="char:EOLhyphen"/>ing that God for their portion unto whom we as their Children have Covenanted our ſelves.</p>
+                  <p n="3">3. Take heed of thinking it an <hi>caſie matter</hi> to ſerve the Lord God of our Fathers, and to anſwer his Expectations of us. To have ſuch a <hi>vain thought lodging in us,</hi> would be to us a founda<g ref="char:EOLhyphen"/>tion of Ruine. The <hi>God of New-England,</hi> the God of pure Or<g ref="char:EOLhyphen"/>dinances
+<pb n="30" facs="tcp:101731:17"/> and Churches and Worſhip is a <hi>Conſuming fire.</hi> The Angel of the Lords Preſence with us <hi>will not pardon our iniqui<g ref="char:EOLhyphen"/>ties.</hi> 
+                     <note place="margin">Exod. 23. 21.</note> 
+                     <hi>Joſhua</hi> puts the Riſing generation in minde of this ſolemn truth, <hi>Joſh.</hi> 24. 19, 20. Thoſe that have gone before us in the Cauſe of God here, who and what were they? Certainly choice and pick'd ones, whom he eminently prepared and trained up and qualified for this Service; They were <hi>Worthies,</hi> men of ſingular Accompliſhments, and of long and great Experience; yet did they walk with fear and trembling before the Lord in the ſenſe of their own nothingneſs and inſufficiency for the Work here to be done. But <hi>we,</hi> poor <hi>we,</hi> alas what are we! we want many ſeaſonings which our Fathers had, we are poor raw things; we want thoſe eminent Converſions, thoſe Schools of Experience, thoſe Opportunities and Advantages of gaining Knowledge, <hi>&amp;c.</hi> which they had.</p>
+                  <p n="4">4. Look after the <hi>Root of the matter</hi> in your Souls. There are many empty outſide Cuſtom born Chriſtians now adayes: A day of temptation will diſcover what ſuch as theſe will come to, when they are catcht in Satans ſnares, and become the Reproach of the Goſpel and of a good Cauſe. O let us get <hi>good ſound Principles,</hi> for want whereof the Profeſſion of ſo many hath run it ſelf out of breath, and broke its neck in theſe dayes. It hath been ſaid that <hi>a looſe Proteſtant is fit to become a ſtrict Pa<g ref="char:EOLhyphen"/>piſt.</hi> A formal ungrounded Profeſſor, he will be fit for Satans <hi>turn</hi> in theſe dayes. O get to be ſincere in your Principles, that your Repentance may be <hi>thorow</hi> Repentance, your Humiliation <hi>deep,</hi> your Faith of the <hi>operation of God,</hi> your Love to God and his wayes and people, a fruit of <hi>Gods love in Chriſt</hi> unto your ſouls; It muſt be <hi>ſuch</hi> a generation that muſt <hi>ſave New-Englands All.</hi> Don't boaſt it of being <hi>Abrahams Children;</hi> do not chal<g ref="char:EOLhyphen"/>lenge <note place="margin">Matth. 3. 9.</note> &amp; lay claim to the diſtinguiſhing Priviledges of the Houſe of God in the pride and unhumbledneſs of your hearts. Take heed of moving on in the wayes of God upon the ſtrength of bare convictions and external motives only, whileſt indeed ſuch wayes are moſt unſuitable unto your unrenewed frame within, and to your ſpirits, as yet unſubdued to the yoke of Chriſt, by any Goſpel <hi>power</hi> making of them <hi>willing</hi> in the <hi>day</hi> thereof. If you have a <hi>name</hi> only <hi>to live,</hi> you will in the iſſue fall down a<g ref="char:EOLhyphen"/>mong <hi>the ſlain of the Lord,</hi> I mean ſlain under <hi>ſpiritual Judge<g ref="char:EOLhyphen"/>ments,</hi>
+                     <pb n="31" facs="tcp:101731:17"/> who <hi>ſhall be many</hi> in theſe dayes wherein we live.</p>
+                  <p n="5">5. Take heed of and watch againſt all the <hi>various ſteps, de<g ref="char:EOLhyphen"/>grees, methods</hi> whereby men come to <hi>forſake and turn off</hi> from the Lord and his wayes. 1. Men uſe the Ordinance of God <hi>ſlight<g ref="char:EOLhyphen"/>ly and careleſly,</hi> 2 King. 10. 31. they dwell in <hi>Zion,</hi> but are ſtran<g ref="char:EOLhyphen"/>gers to the <hi>well-ſprings</hi> that are there. Under the fulneſs of Ordinances they look not after that which their ſouls may <hi>eat &amp; drink,</hi> and be ſpiritually <hi>ſatiated</hi> with. Church-watch, fellowſhip, diſcipline does them no real inward good. 2. Now me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> grow ſe<g ref="char:EOLhyphen"/>cretly <hi>weary</hi> of all theſe things, as of a garment that warms not, and bread that ſtrengthens not; they are not tyed by the <hi>heart-ſtrings</hi> to pure Ordinances and Worſhip, and to a godly Go<g ref="char:EOLhyphen"/>vernment. 3. Now men begin to <hi>queſtion the ground and war<g ref="char:EOLhyphen"/>rant of things.</hi> 4. Now they hearken after <hi>Objections,</hi> and what may be <hi>cavill'd againſt</hi> the Wayes and Inſtitutions of God. 5. Now they are <hi>impoſed upon by deceitful workers;</hi> they <hi>greedily</hi> liſten unto what may be ſaid <hi>for</hi> the wayes and inſtitutions, courſes and cuſtomes of men. 6. Now they <hi>take offence</hi> at per<g ref="char:EOLhyphen"/>ſons and things, and ſuffer their ſpirits to be imbittered. 7. Now being <hi>given up by God,</hi> they <hi>fall quite off; Men gather them,</hi> they are joyned in with the Inſtruments of Satan, and turn <hi>
+                        <g ref="char:V">Ʋ</g>nderminers</hi> at leaſt, if not <hi>open Perſecutors.</hi> O take heed and watch againſt all theſe things. Enquire after all the <hi>firſt warp<g ref="char:EOLhyphen"/>ings</hi> of your hearts and ſpirits; be not <hi>ignorant of Satans devices.</hi> 
+                     <note place="margin">2. Cor. 2. 11.</note>
+                  </p>
+                  <p n="6">6. Maintain a Reverend and High <hi>Eſteem</hi> of godly <hi>Leaders,</hi> Civil and Spiritual Guides, and <hi>be ſubject</hi> to them in the Lord. Account regular ſubjection to be an <hi>excellent</hi> thing; and that a pliableneſs and yieldableneſs in this, carries an <hi>excellency</hi> of ſpi<g ref="char:EOLhyphen"/>rit along with it. There is not only excellent <hi>Humility,</hi> but ex<g ref="char:EOLhyphen"/>cellent <hi>Wiſdome</hi> alſo in ſuch a courſe. The <hi>Order</hi> of God both in Civils and Eccleſiaſticals, duely Acknowledged, Reverenced, ſubmitted unto in the Lord, will bring ſo great a bleſſing with it of peace, gracious guidance, a happy iſſue in difficult caſes, and ſettlement, as too too often we have too much ſelf and carnal wiſdome and too little faith to believe.</p>
+                  <p n="7">7. Plead and improve the Lords <hi>Covenant with you,</hi> and in ſpecial your <hi>Baptiſm,</hi> the firſt Seal of that Covenant, that you may be eſtabliſhed and made faithful with the Lord therein. If we forget and neglect the Lord in that wherein he begins with
+<pb n="32" facs="tcp:101731:18"/> us, and firſt viſibly takes hold of us, no wonder if we make no progreſs, but ſit looſe from God all our dayes.</p>
+                  <p>Theſe are the <hi>Directions</hi> that I would leave with you in the name and fear of the great God to be thought of and put in practice. There is a <hi>Conſideration</hi> or two whereby I would yet further back this Branch of the Exhortation unto you of the <hi>Preſent Generation,</hi> that are now liſtning unto this ſolemn word of God, and ſo I ſhall paſs on with as much ſpeed as may be in that which remains.</p>
+                  <p>1. The preſent work of God in theſe Churches <hi>it muſt ſtand or fall in our hands;</hi> for it is now devolved upon us of the <hi>pre<g ref="char:EOLhyphen"/>ſent Generation.</hi> It is true indeed God can cut us off and graft in others; He can fill his Houſe though we were ſhut all of us out of doors; He can uphold his own name and glory though we were ſwept to the dunghill: But that <hi>individual work</hi> which hath been begun and hitherto carried on in this place, it muſt ſtand and fall with us. Now ſhall the enemy <hi>blaſpheme</hi> becauſe of us? ſhall Satan triumph as a <hi>conquerour</hi> in <hi>us?</hi>
+                  </p>
+                  <p>2. <hi>What will become of us,</hi> if we fail the Lord of his Expecta<g ref="char:EOLhyphen"/>tions? O what <hi>good</hi> ſhall we loſe? what <hi>evil</hi> ſhall we bring up<g ref="char:EOLhyphen"/>on our ſelves? <hi>whither ſhall we cauſe our ſhame to go?</hi> will God care for a degenerate Race? when the <hi>overflowing ſcourge ſhall paſs,</hi> will there be any <hi>Sanctuary</hi> for us with the God of Truth? What did it profit the Iſraelites in the Wilderneſs, that they had all things according to the Pattern, but they themſelves were a rebellious and hard hearted generation? if we be tranſgreſ<g ref="char:EOLhyphen"/>ſors we ſhall utterly periſh; Enemies and evils of all ſorts ſhall have <hi>a bargain</hi> of us, <hi>Deut.</hi> 32. 30. <hi>Except their Rock had ſold them.</hi> Judg. 2. 14.</p>
+                  <p>3. It is not <hi>long</hi> before the Lord will <hi>finiſh his great works</hi> in the world: <hi>Antichriſt</hi> ſhall be deſtroyed, <hi>Iſrael</hi> ſhall be ſaved; <hi>Zion ſhall be redeemed with judgement, and her converts with righ<g ref="char:EOLhyphen"/>teouſneſs;</hi> 
+                     <note place="margin">Iſa. 1. 27. Luke 18. 7, 8.</note> though the Lord bear long with his Elect, yet he will avenge them ſpeedily. That he <hi>bears long,</hi> hath been already fulfilled; what remains therefore to be accompliſhed, but only that now he <hi>avenge them ſpeedily?</hi> ſhall we take <hi>this ſeaſon</hi> then wherein to fail the Lord? ſhall we be among the <hi>laſt Apoſtates,</hi> for whom the ſoreſt vengeance is laid up in ſtore? <hi>Yet a little while and he that ſhall come will come, and will not tarry.</hi> Bleſſed
+<pb n="33" facs="tcp:101731:18"/> are they that <hi>wait</hi> for, and can <hi>abide</hi> the day of his coming. Shall we loſe our <hi>ſhare</hi> in thoſe <hi>times of Refreſhment</hi> which are ſo near to come?</p>
+                  <p>4. Conſider and remember alwayes, that the <hi>Books</hi> that ſhall be opened at the laſt day will contain <hi>Genealogies</hi> in them. There ſhall then be brought forth a <hi>Regiſter of the Genealogies of New-Englands ſons and daughters.</hi> How ſhall we many of us hold up our faces then, when there ſhall be a ſolemn rehearſal of our <hi>deſcent</hi> as well as of our <hi>degeneracies?</hi> To have it pub<g ref="char:EOLhyphen"/>liſhed whoſe Child thou art will be cutting unto thy ſoul, as well as to have the Crimes reckoned up that thou art guilty of.</p>
+                  <p>Thirdly, In the third and laſt place This Exhortation is di<g ref="char:EOLhyphen"/>rected <hi>unto you who are in place of Government</hi> reſpectively, and that may be this day our <hi>Eſtabliſhed</hi> Leaders and Rulers. Honoured and much Eſteemed; The Lord hath meaſured out an Inheritance for a precious Remnant of his people in this Wilderneſs; we may with all humility acknowledge that we are <hi>his flock and the ſheep of his paſture;</hi> And here there is a ſolemn <hi>Truſt</hi> that is inveſted in <hi>You</hi> who are Rulers, committed unto you <hi>by God</hi> and <hi>by men;</hi> your <hi>Mothers Children,</hi> though not in <hi>anger,</hi> do make you the <hi>Keepers of the Vineyard:</hi> ſo that <hi>Gods</hi> Expectations and his <hi>Peoples</hi> are upon you in a ſpecial manner. Do <hi>You</hi> alſo anſwer theſe Expectations, that as in your publick capacities you are more peculiarly <hi>the Children of</hi> 
+                     <note place="margin">Pſal. 82. 6.</note> 
+                     <hi>the Moſt High,</hi> ſo you may be alſo <hi>Children that will not lie.</hi> If you be true to God, to his Truths, to your Truſt, accord<g ref="char:EOLhyphen"/>ing to your Abilities and Opportunities of doing for God, his Intereſt and People; then know, that whatever may for a time become of that Cauſe and thoſe precious Concernments, which are upon your hearts to ſave, though with your lives, if called thereunto; yet you your ſelves ſhall be ſure to enjoy the Sal<g ref="char:EOLhyphen"/>vation of God. Be you fixed therefore in your Orb, and not as thoſe Stars that now adayes fall from Heaven; that you may continue to be in the midſt of us, <hi>as the light of the morning, a morning without clouds, and as the clear ſhining after rain.</hi> The <note place="margin">2 Sam 23. 4.</note> Foundations of your Government have been <hi>Righteouſneſs;</hi> of this there is a <hi>Record on High;</hi> and the Lord hath added <hi>Peace</hi> hitherto. Now your Power and Authority doth lye profeſſedly, and by fundamental Conſtitution, in a direct ſub<g ref="char:EOLhyphen"/>ſerviency
+<pb n="34" facs="tcp:101731:19"/> to the Intereſt Power and Kingdome of the Lord Jeſus Chriſt, and the welfare of his Saints. This you acknow<g ref="char:EOLhyphen"/>ledge and own, and it is your glory; And herein is required your Fidelity and Conſtancy, that you may continue <hi>Ruling with God, and faithful with his Saints.</hi> This is that which God <note place="margin">H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ. 11 12.</note> expects and promiſeth to himſelf, that you Rule and Govern this People for him; And that you lay out your ſelves, in all regular wayes, to the utmoſt, to preſerve us from <hi>Apoſtacy,</hi> and from being <hi>lying Children,</hi> or <hi>falſe</hi> with the Lord in his Covenant. You who are our <hi>Judah,</hi> our Ruling Tribe, you are the <hi>Bow,</hi> This People are as the <hi>Arrows</hi> (that I may allude to what we finde <hi>Zech.</hi> 9. 13.) if you be but Bent right, and have Strength and Steadineſs, we ſhall hope, through mercy, to be ſhot directly forward, and in ſome good meaſure to reach the Mark aimed at. We know that your care and ſollici<g ref="char:EOLhyphen"/>tude is, leſt the Ruine of any thing that is of God ſhould be under your hand; And indeed the Lord hath <hi>ſet you for the defence</hi> of all that which is <hi>His</hi> in this remote corner of Chriſts Inheritance: You are the <hi>Keepers of our Walls;</hi> and therefore for <hi>Zions</hi> ſake, even for our <hi>own</hi> ſakes, we do in the Name of the Lord ſolemnly wiſh you this day, and at all times, <hi>Proſpe<g ref="char:EOLhyphen"/>rity;</hi> we wiſh you <hi>Wiſdome, Spirit, Fidelity;</hi> we wiſh you an Healthful Countenance and Conſtitution of Affairs; we wiſh you the <hi>Counſels of Truth and Peace.</hi> There be many at this day, <hi>The Brood of Antichriſt,</hi> that are <hi>Travailing with Miſ<g ref="char:EOLhyphen"/>chief,</hi> and the hope of ſome of them is to have a good <hi>Lying-in</hi> of it, even here amongſt us; but they ſhall All of them <hi>bring forth a Lie:</hi> But be you Exhorted to <hi>travail</hi> with the deſigns <note place="margin">Pſal. 7. 14. Job 15 35.</note> and work of God, plotting how to Exalt the Kingdome of our Lord Jeſus, the Righteouſneſs Holineſs and Peace thereof more and more, that ſo you may be as the <hi>Mountains that bring forth peace,</hi> and the <hi>Hills that bring forth Righteouſneſs</hi> 
+                     <note place="margin">Pſal. 72. 3.</note> 
+                     <hi>unto the Lords people.</hi> You know how your <hi>Style</hi> runs in the language of the Holy Ghoſt, you are called <hi>Gods,</hi> and we do <note place="margin">P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al. 82. 6.</note> therefore account you <hi>Worſhipfull;</hi> Now to be a <hi>God</hi> (as one in this caſe ſpeaks) is to be above all Fears, all Hopes, all Tem<g ref="char:EOLhyphen"/>ptations; to be immutable, and not to appear ſo much as in the ſhadow of a change. Thus it muſt be with you in your meaſure. And therefore as you are called <hi>Gods,</hi> minde this
+<pb n="35" facs="tcp:101731:19"/> your <hi>Glory.</hi> But yet though you be Gods, we muſt not think to finde you without Infirmities; your <hi>Deity</hi> is ſuch, that a multitude of Infirmities is compatible therewith; onely there may be <hi>Infirmities</hi> where there is not the <hi>Lie.</hi> Weakneſs and Falſeneſs are vaſtly different; ask this grace, that the latter may never be charged upon you; And ſo the Lord, in <hi>remem<g ref="char:EOLhyphen"/>bring you for good,</hi> according to all that you have done for this people, and for his Name, ſhall <hi>ſpare you alſo, according to the multitude of his mercies.</hi>
+                  </p>
+                  <p>I cannot inſiſt here upon all thoſe particulars wherein the Expectations of God and of his people are placed upon you; your firſt wayes have engaged you deeply. <hi>Magiſtrates and Rulers</hi> they are not only <hi>Foundation-ſtones,</hi> and ſo <hi>Supporters</hi> of the Common wealth; but they muſt be alſo <hi>Corner-ſtones</hi> 
+                     <note place="margin">Zech. 10. 4. Iſa 3. 7.</note> in the Foundation, to <hi>Couple</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>nite;</hi> They muſt be <hi>Healers.</hi> And the good Lord guide you, and proſper you as to this part of your work, that <hi>ſuch</hi> a mercy, <hi>
+                        <g ref="char:V">Ʋ</g>niting and Healing</hi> mercy, may be called after your name. When the unfeigned friends and ſincere promoters of Reformation, on the one ſide; and thoſe that hate Reformation, on the other ſide, make up the two Parties; now (as is obſerved) the fire of Contention is <hi>natural; Homogeneous things</hi> are <hi>congregated,</hi> and <hi>Heterogeneous</hi> are <hi>ſegregated:</hi> But when both the Sides do grow up from the former ſort, and they themſelves become divided, the fire of this Contention, becauſe of the quite contrary eff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct, is <hi>un<g ref="char:EOLhyphen"/>natural.</hi> The Lord pour out the Blood of Chriſt upon the laſt ſpark of this fire, for its utter extinguiſhing.</p>
+                  <p>Many Knots and Intricacies there may be, and Clouds of darkneſs upon ſome matters in diſquiſition, which none but a gracious God can diſſolve; in theſe things the Lords people are to exerciſe mutual for bearance. <hi>Circumſtantial Differences</hi> ought not to breed <hi>Subſtantial Diviſions;</hi> that would be a <hi>Monſtrous and Gigantine birth.</hi> It is wrong done to the Chri<g ref="char:EOLhyphen"/>ſtian name ſo much as to <hi>queſtion,</hi> Whether that diverſity of Apprehenſion in leſſer and dubious matters amongſt the Lords people ought to be born withall, which can and doth ſuffer a Regulation in order to the Unity and Peace of the whole. But yet the true Chriſtian <hi>Goſpel-Liberty,</hi> was never unto this day a Womb big with <hi>Licentiouſneſs.</hi> And here there is one Poſi<g ref="char:EOLhyphen"/>tion,
+<pb n="36" facs="tcp:101731:20"/> that me-thinks can never be denied by any that have but the common Principles of Reaſon intire; <hi>viz. That no Per<g ref="char:EOLhyphen"/>ſwaſion or Practice, can ever in the Conſcience of the contrary-minded, have a good right to publick Liberty and Countenance, which being thorowly attended to, doth indeed tend to the under<g ref="char:EOLhyphen"/>mining, and ſo in the iſſue to the overthrow of the ſtate of theſe Churches, in that wherein it is of God, and hath been largely and plentifully owned by him. And of this caſe and the application thereof, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe who are in Authority may and ought to judge.</hi> And further, <hi>Who can therefore think it much, if ſuch Opinions as are not onely in themſelves, but even in the mindes of thoſe that hold them, un-Churching to ſo many precious Societies of Chriſt, I mean as to their viſible Church-ſtate, be very harſh and un<g ref="char:EOLhyphen"/>pleaſant, and the uncontrolled ſcope of them much more diſtaſtful.</hi> Certainly <hi>a weaker Body cannot, ought not to do that, or ſuffer that upon it ſelf, or in it ſelf, upon the account of Charity to an<g ref="char:EOLhyphen"/>other, which a ſtronger Body may, and in ſome caſes may be bound to do or ſuffer.</hi> All regular Charity <hi>(caeteris paribus)</hi> begins firſt at home. There are the <hi>Peculiar Conſtitutions,</hi> and <hi>dif<g ref="char:EOLhyphen"/>ferent Capacities</hi> of places to be conſidered, according as God in his infinite Wiſdome doth order and ſuffer matters to be cir<g ref="char:EOLhyphen"/>cumſtanced; <hi>Men truely Conſcientious ought to make Conſcience here, what they venture upon, or what they demand and ask of Authority.</hi> There is but one thing more that in theſe matters I would ſeriouſly minde you of, and that is a piece of ſeaſon<g ref="char:EOLhyphen"/>able and ſound Advice which ſome-where I meet with, unto this purpoſe for the ſubſtance, That where differences of Ap<g ref="char:EOLhyphen"/>prehenſion and Opinion do happen amongſt godly Reformers in their Enquiries after the Will and Way of God; It be tho<g ref="char:EOLhyphen"/>rowly laboured that ſuch Points of Difference be <hi>accurately ſtated,</hi> and unto the utmoſt that may be poſſible <hi>narrowed,</hi> and ſome Rules of <hi>Practice</hi> for the preſervation of <hi>Order and Peace</hi> mu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ually fixed, and a <hi>Probatum eſt</hi> ſet upon the Expe<g ref="char:EOLhyphen"/>rience of them, <hi>during the life time of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe who have been firſt in ſuch matters of Debate and Controverſie;</hi> for otherwiſe if this ſhould be neglected, and they being dead and gone others ſpring up after them to inherit a <hi>diverſity of Names</hi> from them, the buſineſs of <hi>Reconciliation and Compoſure</hi> would be in a farre more difficult poſture, and rather go backward then forward,
+<pb n="37" facs="tcp:101731:20"/> as ſad Experience in the Chriſtian world hath already Teſti<g ref="char:EOLhyphen"/>fied.</p>
+                  <p>But I may not hold you longer upon theſe things. In a word, do all the Lords work in your publick Capacities faith<g ref="char:EOLhyphen"/>fully and vigorouſly. Execute Juſtice impartially; Be a Ter<g ref="char:EOLhyphen"/>rour to evil doers; Encourage all them that are faithful; Put new life into all publick Work that languiſheth; Look to Out-ſcattered unformed places in your Juriſdiction, and that enjoy not ſetled publick Worſhip and Teaching. And as the ſum of all, <hi>Fall not off from any thing upon any pretence whatſoever, which adhering unto, God hath hitherto ſaved you and this People;</hi> for this would be to <hi>Lie</hi> unto God, yea to make him a <hi>Liar</hi> in the voice and teſtimony of all his former Providences.</p>
+                  <p>I have but a few words of Direction in all plainneſs to leave with <hi>You alſo,</hi> Honoured and much Eſteemed, and ſo ſhall finiſh this Uſe.</p>
+                  <p n="1">1. Wait upon God in your Places for diſcovery of <hi>Light and Truth,</hi> that you may underſtand the <hi>way of this people,</hi> 
+                     <note place="margin">Prov. 14. 8.</note> and the <hi>Lords way</hi> with us, and in the <hi>world</hi> too at this day; that ſo your <hi>Wiſdome and Knowledge may be the ſtability of our</hi> 
+                     <note place="margin">Iſa. 33 6.</note> 
+                     <hi>times.</hi> God will not be unwilling to communicate Light to you in his own way, <hi>Eccleſ.</hi> 8. 5. Every leſſer Star (as one ſpeaketh) hath light enough for it ſelf; but no leſs then a Sun can give light to the World. Rulers had need to be full of light. Let your eye upon all occaſions be upward unto the Father of <note place="margin">Pſal. 34. 5. &amp; 32. 8.</note> Lights; and ſo ſhall his eye be fix'd upon yours, and this <hi>eye of his ſhall guide you.</hi>
+                  </p>
+                  <p n="2">2. Secure your hearts and ſpirits as to <hi>ſincerity</hi> before the Lord, and for that end <hi>ſeek the honour that cometh from God</hi> 
+                     <note place="margin">J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h. 5. 44. P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al. 25. 21. &amp; 78. 72. Prov. 11. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> 
+                     <hi>onely. Integrity and uprightneſs ſhall preſerve and guide you.</hi> An unbya<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d Magiſtracy ſhall never want Aſſiſtance. Watch a<g ref="char:EOLhyphen"/>gainſt <hi>private narrow Self-ends;</hi> that if in an hour of trial and temptation, ſome proffer of a <hi>private good,</hi> or <hi>to ſave your own particular ſtate,</hi> ſhould be ſtrongly managed by Satan, to draw you off from the <hi>Publick</hi> and <hi>Common Intereſt,</hi> yet you may abide reſolved and conſtant thereunto. It was the Reſolution of an Heathen, <hi>N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Immortalitatem quidem contra Rempub<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>icam acciperem. Moſes</hi> his Refuſal and the Apoſtle <hi>Paul</hi>'s wiſh are <note place="margin">Heb. 11. 24, 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Exod. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2 10. 11. Rom. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 3.</note> known to you. Say you ſhould do much of <hi>Gods work,</hi> but
+<pb n="38" facs="tcp:101731:21"/> not with a ſincere aim at <hi>Gods ends,</hi> this would be to <hi>Lie</hi> unto him. Thus <hi>Jehu</hi> was a <hi>Lie</hi> in all he did. Let there be no va<g ref="char:EOLhyphen"/>riation of the Compaſs with you as to ſincere and upright aims and ends. God will make large allowance to weakneſſes, but then there muſt be ſincerity.</p>
+                  <p n="3">3. Study <hi>
+                        <g ref="char:V">Ʋ</g>nity</hi> among your ſelves, and in your own Coun<g ref="char:EOLhyphen"/>ſels, that our firſt wheels may move with the ſweetneſs and un<g ref="char:EOLhyphen"/>diſturbedneſs of a Coeleſtial divine Harmony.</p>
+                  <p n="4">4. Drink deep of the <hi>love of God</hi> in Chriſt, who ſhed his Blood to ſave his Church, that <hi>your love</hi> to the Wayes and Or<g ref="char:EOLhyphen"/>dinances <note place="margin">Eph. 5. 25. 1 Joh. 3 16.</note> and Churches and People of God, may have its riſe and nouriſhment from this fountain. It is ſuch a love alone that will <hi>conſtrain you,</hi> and remain <hi>unquench'd</hi> though in the midſt of <hi>many waters.</hi>
+                  </p>
+                  <p n="5">5. Arm your ſelves with <hi>Courage;</hi> if you will be good Ma<g ref="char:EOLhyphen"/>giſtrates, you muſt be ſuch as <hi>dare</hi> to act your Conſciences: and Arm your ſelves alſo with <hi>Patience</hi> (I will joyn them both together) for the <hi>burthen</hi> of the people muſt be <hi>born.</hi> Get from under the influence of carnal fears, theſe will make you to lie, <hi>Iſa.</hi> 57. 11. You have been taught by Experience to ex<g ref="char:EOLhyphen"/>pect Oppoſitions, Trials, Exacerbations; <hi>wickedneſs will pro<g ref="char:EOLhyphen"/>cced from the wicked;</hi> there will be a tumultuating of the paſ<g ref="char:EOLhyphen"/>ſions and luſts of men, yea and of the corruptions of good men too, under the ſtrict exerciſe of Government, when the Reins of Authority are held ſtraight. Without a good mea<g ref="char:EOLhyphen"/>ſure of holy Patience and Courage you will not hold our. You muſt have ſo much Courage as to <hi>ſeek out that labour which be<g ref="char:EOLhyphen"/>longs to your Office and Honour;</hi> ſo much Courage that it may not be <hi>dreadful to you, to be ſo hemm'd in with duty on every ſide as to ſee no way of Retreat.</hi>
+                  </p>
+                  <p n="6">6. Look upon <hi>Faith</hi> to be the way to <hi>Fidelity; if <gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> not believe you ſhall not be eſtabliſhed.</hi> Faith undertakes all upon the <note place="margin">
+                        <gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 9.</note> engagement of God. Faith bottoms the Soul upon the promiſe, and builds it up in a way of ſupplications. Know it, that if you will be found faithful with God at this day in the work of Ru<g ref="char:EOLhyphen"/>lers, you muſt be neither <hi>Lower</hi> nor <hi>Mi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dle,</hi> but <hi>
+                        <g ref="char:V">Ʋ</g>pper-R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gim men,</hi> and there is nothing but Faith, and the conſtant lively exer<g ref="char:EOLhyphen"/>ciſe thereof that can carry you <hi>ſo high.</hi> Su<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h as live upon <hi>futu<g ref="char:EOLhyphen"/>ra contingentia,</hi> they will be miſerably <hi>uncertain,</hi> up and down,
+<pb n="39" facs="tcp:101731:21"/> now here and now there, but <hi>Faith,</hi> the eye and deſign, the hope and the heart of Faith, fix wholly upon things that are <hi>
+                        <gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>hangeable.</hi> Secure your hearts therefore in a ſingle dependance up<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, and ſole truſt in God; <hi>Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>mit your way to the Lord</hi> at all times, and do n<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> conſume away in your own fears and cares and contrivances.</p>
+                  <p n="7">7 When you have behaved your ſelves with the greateſt <hi>ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cerity and i<gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>grity</hi> in your places, and have been able to do moſt for God, ſtill look <note place="margin">Gen. 6. 8 9. Neh. 13. 22.</note> for your <hi>Acceptance</hi> with God, and your <hi>Reward</hi> from him as of <hi>Free-grace</hi> only. This is to be upright in the upſhot of all.</p>
+                  <p>Finally, have you not often received encouragements from the promi<g ref="char:EOLhyphen"/>ſes? hath not the Lord been preſent with you in difficulties? have you not been oft refreſhed with the teſtimony of a good Conſcience, that <hi>in ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pli<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ity and godly ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cerity</hi> you have managed what hath been in your hand? <note place="margin">2 Cor. 1. 12.</note> have you not been a Government enquiring after the mind and will of God, given to prayer, and to adviſe with the Word of God and the faithful diſpenſers of the ſame? Now then go on, even this year alſo, <hi>in this your might,</hi> Being and Doing All for God; <hi>And He that is indeed the great Shep<g ref="char:EOLhyphen"/>herd and Stone of Iſrael,</hi> ſhall be in the midſt of you, <hi>The mighty Counſellor, The Prince of Peace, upon whoſe ſhoulder the Government is and ſhall be.</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> 4. <hi>Of Encouragement and Aſſurance</hi> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o all the Lords people here in this Wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſs. Let us but prove <hi>Children that will not lie,</hi> and we ſhall not want <hi>Salvation.</hi> If <hi>we</hi> lie not, the <hi>viſion</hi> ſhall not he. Nothing but our own Lie can ſhut us out from the Salvation of God. Our great work lyes in this to keep from being lving children; we may now confidently leave the work of ſaving us with God. Yea out <hi>E<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>emies</hi> in this way <hi>ſhall be fou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> 
+                     <note place="margin">Deut. 33. 29.</note> 
+                     <hi>Liars unto us; Achitophel</hi> ſhall die in Child-bed, not being able to give life and birth to his miſchievors Conceptions. <hi>Balaam</hi> may <hi>ſet up his Altars,</hi> and <hi>offer his Sacrifices,</hi> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <hi>ſeek Incha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rts</hi> once and again, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut withou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſucceſs, when the <hi>Lord beholds <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ot this i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iquity in Jacob</hi> no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>ſees this perv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rſe<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſs</hi> 
+                     <note place="margin">Numb. 23 21. Exod. 19 4. 5: 6 Iſa. 26. 1, 2.</note> 
+                     <hi>in Iſrael.</hi> If the Lord preſerve un<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> us a faithful <hi>Peopl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> a faithful <hi>Mi<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>,</hi> a faithf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l <hi>Magiſtrace,</hi> He will then <hi>App<gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>t Salvati<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n for Walls and B<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>w<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ks</hi> to us. I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is <hi>New-E<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>glands <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ie</hi> that muſt open the door unto <hi>New-<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>glands R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ine,</hi> which he Lord for ever preſerve u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from, and ſet a <hi>double Lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k</hi> of faithfulneſs upon all our Souls, that we may be both faithful to God, and alſo fai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hful wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Saints. I will but briefly note unto you a few particulars out of <hi>Pſal</hi> 125. and ſo ſhut up all.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>irſt,</hi> We have a time a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſeaſo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of ſore trial and exerciſe ſuppoſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, by reaſon of the building and bloſſoming <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the <hi>Rod of wick<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> men, and its <hi>lyi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pon the Lot of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ri<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>teous</hi> for a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime, <hi>v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> 3.</p>
+                  <p>
+                     <hi>Secondly,</hi> We have the d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fferen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rary behaviour of perſons un<g ref="char:EOLhyphen"/>der ſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h an hour of temp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ati<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Some are <hi>Children that will not li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>;</hi> they are <hi>good</hi> in ſuch <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> times, they are <hi>upright in their hearts,</hi> v. 4 and they <hi>truſt in God,</hi> v. 1. O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hers th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve <hi>Liars,</hi> they <hi>tur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> aſide into crook<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d wayes,</hi> they ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ink and preva<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are with God, and wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p off <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>om <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he ſtrait<g ref="char:EOLhyphen"/>neſs of the Rule, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he up<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the Cauſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, <hi>v</hi> 5.</p>
+                  <p>
+                     <hi>Thi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> We have the <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> which the L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kes with theſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> perſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s. 1. Thoſe <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> aſi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> into crook<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>,</hi> a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> prove <hi>Li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rs</hi> to God, H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ads th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m forth with th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> workers o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> iniquity,</hi> they are not
+<pb n="40" facs="tcp:101731:22"/> men that do at the firſt openly paſs over into the Tents of wickedneſs, but in ſuch a day of tri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l, they are unſound with God, and have their <hi>By-wayes</hi> of ſinful <hi>latitude</hi> and <hi>compliance,</hi> playing faſt and looſe with a good Cauſe, under corrupt byaſſes and fair preterces; ſuch as theſe, whoever they be, even the beſt of them, the Lord <hi>ſhall make them to go with workers of iniquity.</hi> (1) <hi>Workers of iniquity</hi> are of a <hi>vile low eſteem</hi> both with God and his Saints, ſo theſe <hi>turners aſide</hi> ſhall be caſt out of the heart &amp; eſteem of Chriſt and of his Saints, if ever they had any repute they ſhall loſe it (2) <hi>Workers of ini<g ref="char:EOLhyphen"/>quity</hi> proceed on and grow <hi>worſe and worſe,</hi> 2 Tim. 3 13. ſo it is the curſe of <note place="margin">Heb. 10. 38.</note> God upon <hi>crooked wayes</hi> that they are ever <hi>headlong down-hill wayes.</hi> Men think they will go but thus far or ſo far in treacherous falſe wayes, and re<g ref="char:EOLhyphen"/>main hid all the while under ſome fair cloak, but they ſhall proceed untill they be known, <hi>Prov.</hi> 10 4. (3) <hi>Workers of iniquity</hi> are ever <hi>cut ſhort of their deſigns, Pſal.</hi> 21. 11. ſo it ſhall be with <hi>theſe.</hi> (4) <hi>Workers of iniquity</hi> ſtumble in, and daſh themſelves againſt all the Righteous wayes of God, and ſo ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heſe <hi>warpers, Hoſ</hi> 14 9. (5) <hi>Workers of iniquity</hi> are ſnared in their own way, ſo ſhall <hi>theſe</hi> that ſo <hi>turn aſide,</hi> they ſhall be intangled and hang in the buſhes and thickets of their own contrivances, <hi>Pſal.</hi> 5. 9, 10. <hi>&amp;</hi> 
+                     <note place="margin">Prov. 14. 14.</note> 7. 14, 15, 16. (6) <hi>Workers of iniquity</hi> ſhall be <hi>turned into Hell,</hi> and ſo ſhall thoſe that chooſe <hi>crooked wayes, Prov.</hi> 1. 32. <hi>The turning away of the ſimple ſhall ſlay them.</hi> There are but two <hi>bundles</hi> at the laſt day, that great <hi>Har<g ref="char:EOLhyphen"/>veſt-day;</hi> the <hi>bundle of life,</hi> and of the <hi>workers of iniquity: D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vid</hi> prayes that he may not be ſound in <hi>this</hi> bundle, <hi>Pſal.</hi> 26. 9. but into <hi>this</hi> ſhall all that <hi>turn aſide</hi> be <hi>gathered;</hi> They ſhall go to their Companions in the iſſue; whatever they would be thought to be here, yet they ſhall inherit Hell and Damnation at the laſt under this very Title of <hi>Workers of iniquity,</hi> Mat. 7. 23. But 2. with the <hi>
+                        <g ref="char:V">Ʋ</g>pright</hi> and ſuch as continue <hi>Truſting in God</hi> in the hour of Tempration, the Lord deals after another manner; unto theſe <hi>Chil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ren that will not lie</hi> he becomes a <hi>Saviour.</hi> (1) They <hi>ſhall be as Mount Zion which cannot be moved, but abideth for ever.</hi> Ungodly ones like chaff are blown away, but Mount <hi>Zion</hi> Abideth for ever, <hi>ver.</hi> 1. (2) The Lord will <hi>be</hi> 
+                     <note place="margin">Pſal. 1. 4.</note> 
+                     <hi>round about them for ever,</hi> v. 2. they need not fear then the ſiege, the en<g ref="char:EOLhyphen"/>camping, the aſſaults of enemies though they be <hi>Round about;</hi> the Lord is both the <hi>Center</hi> and <hi>Circumference</hi> too, in the ſafety and ſecurity of his up<g ref="char:EOLhyphen"/>right ones: for as here he is ſaid to be <hi>round about them,</hi> ſo <hi>Pſal</hi> 46. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. He is ſaid to be <hi>in the midſt</hi> of them alſo. (3) The Lord will <hi>do them good, v. r.</hi> 4. The goodneſs of the Lord is a Cordial ſufficient againſt all fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing, <hi>Pſal</hi> 27. 13. there is all Salvation contained in i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <hi>Zech.</hi> 9. 16, 17. (4) The Lord will give them <hi>Peace,</hi> ver. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſt. <hi>Peace ſhall be upon Iſrael,</hi> i. e. upon <hi>Iſrael</hi> walking uprightly. <hi>According to Rule,</hi> and not <hi>crookedly, Gal.</hi> 6. 16.</p>
+                  <p>
+                     <hi>Thoſe are the true and faithful ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ings of God.</hi> They are and ought to be for our encouragement, that <hi>we through patient continua<gap reason="illegible" resp="#APEX" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> in well-doing, and the comfort of</hi> ſuch <hi>Scriptures might have hope.</hi> Let come what will come, if we Anſwer what the Lord hath ſaid of us, That <hi>Surely we are his People, Children that will not lie;</hi> He will then moſt Aſſuredly and moſt Seaſon<g ref="char:EOLhyphen"/>ably Become <hi>New-Englands Saviour.</hi> Iſa 51. 7, 8. &amp; 26. 1, 2.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>p. 5. l. 3. for <hi>perſons</hi> read <hi>reaſons.</hi> p. 31. l. 4 read <hi>Ordinances.</hi> The reſt are li<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
